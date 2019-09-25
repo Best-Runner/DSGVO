@@ -1,0 +1,81 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+.cssdesign{
+border: 1px solid #666666;
+background-color: #FFFFCC;
+}
+nav ul {
+    list-style: none; 	  
+  }
+nav a {
+    text-decoration: none; 
+	}
+	
+nav a:focus,
+nav a:hover,
+nav a:active { 
+	color: red;
+    text-decoration:underline;
+}
+
+table#Tabelle1 {
+    border: 1px solid blue;
+}
+ 
+table#Tabelle1 tr:nth-child(even) {
+    background-color: #eee
+}
+ 
+table#Tabelle1 tr:nth-child(odd) {
+    background-color: #fff;
+}
+ 
+table#Tabelle1 th {
+    color: white;
+    background-color: blue;
+    padding: 4px 4px 2px 4px;
+}
+ 
+table#Tabelle1 td {
+    border: 1px solid black;
+    padding: 2px;
+	padding-left: 5px;
+}
+ 
+table#Tabelle1 tr:last-of-type tr {
+    background-color: blue;
+    text-align: center;
+}
+
+table#Tabelle1 tfoot {
+   background-color: blue;
+    text-align: center;
+}
+
+.tdat1 { 
+    text-indent: 10%;
+}
+
+.spaltengruppe { width: 100%; }
+
+.spalte1 { width: 12%; }
+
+.spalte2 { width: 12%; }
+
+.spalte3 { width: 12%; }
+
+.spalte4 { width: 64%; }
