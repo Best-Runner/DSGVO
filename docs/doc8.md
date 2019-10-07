@@ -3,6 +3,70 @@ id: doc8
 title: Playground
 sidebar_label: Playground
 ---
+<!--DOCUSAURUS_CODE_TABS-->
+<!--JavaScript-->
+```js
+console.log('Hello, world!');
+```
+<!--Python-->
+```py
+print('Hello, world!')
+```
+
+<!--C-->
+```C
+#include <stdio.h>
+
+int main() {
+   printf("Hello World!");
+   return 0;
+}
+```
+
+<!--Pascal-->
+```Pascal
+program HelloWorld;
+begin
+  WriteLn('Hello, world!');
+end.
+```
+
+<!--END_DOCUSAURUS_CODE_TABS-->
+
+```js
+ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById('root'));
+```
+______
+
+<style>
+	label {
+		font-weight: bold;  
+    }
+</style>
+
+<div>
+    <label for="bs">Blocksatz</label><input id="bs" type="radio" name="ukus" value="bs" checked></label>
+    <label for="fs">Flattersatz</label><input id="fs" type="radio" name="ukus" value="fs"></label>
+	<button onClick="result();" class="ausrichtung">Auswahl!</button>
+</div>
+
+<script>
+	var ausrichtung = document.querySelector('.ausrichtung');
+
+	ausrichtung.addEventListener('click', result);
+
+	function result() {
+		if(document.getElementById("bs").checked ) {
+			ausrichtung.textContent = 'Blocksatz!';
+		}
+		else ausrichtung.textContent = 'Flattersatz!';
+	}
+</script>
+
+_______
+
+
+
 ___
 ## Other Stuff
 ___

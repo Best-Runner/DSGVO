@@ -1,12 +1,12 @@
 {
   "docs": {
-    "Audit Fragenkataloge": ["doc1","doc9","doc10","doc11","foerderung"],
-	"Projektaufgabe": ["projekt","projekt01","projekt02","projekt03","projekt04"],
+    "Gesetze": ["dsgvo","ewg","bdsg","geheim"],
+	"Audit Fragenkataloge": ["doc1","doc9","doc10","doc11","foerderung"],
+	"Fördermittel": ["foerderung"],
+	"Projekte": ["projekt","projekt01","projekt02","projekt03","projekt04"],
 	"Präsentationen": ["doc6","doc7","doc12","it-itil"],
-    "Gesetze": ["doc2","doc5","doc4"],
-	"Nexus": ["nexus"],
     "Links": ["doc3","local"],
-	"Playground": ["doc8","readme"]
+	"Playground": ["reveal","doc8"]
   },
   "docs-other": {
     "Wichtiges": ["datenschutz","impressum"]

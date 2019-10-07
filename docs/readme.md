@@ -4,14 +4,39 @@ title: Installation
 sidebar_label: Installation und Dokumentation
 ---
 
-# Installationsanweisung zu Digital Audit, basierend auf [Docusaurus](https://docusaurus.io/).
+# Installationsanweisung zu Digital Audit
+* basierend auf [Docusaurus](https://docusaurus.io/).
 
 ## Erstellt wurde das Ganze in [Markdown](https://markdown.de/)
-* einer minimalistischen Textsprache
+einer minimalistischen Textsprache. Hintergrund ist, dass Docusaurus Markdown verarbeitet und das sich Texte/Präsentationen sehr schnell erstellen lassen. 
 
-## Markdown-Textverarbeitungen [Zettlr](<https://www.zettlr.com/download/win32>) und [Notepad++](<https://notepad-plus-plus.org/downloads/>)
-* Zettler ist sehr leistungsfähig und kann in vielen Bereichen Word ersetzen. [Dokumentation in D](<https://docs.zettlr.com/de/>)
-* Notepad++ ist eine Universalwaffe für Texte, Programmiersprachen u.v.D.m.
+## Markdown-Textverarbeitungen (anklicken)
+<!--DOCUSAURUS_CODE_TABS-->
+<!--Zettlr-->
+
+### Zettlr ist sehr leistungsfähig und kann in vielen Bereichen Word ersetzen.
+* [WWW Home](https://npp-user-manual.org/)
+* [Dokumentation](https://docs.zettlr.com/de/)
+* [Download](<https://www.zettlr.com/download/win32>)
+
+<!--Notepad++-->
+
+### Notepad++ ist eine Universalwaffe für Texte, Programmiersprachen u.v.D.m. 
+* [WWW Home](https://notepad-plus-plus.org/)
+* [Dokumentation](https://npp-user-manual.org/)
+* [Download](https://notepad-plus-plus.org/downloads/)
+
+
+<!--Brackets-->
+
+### Brackets ist ein sehr einfach zu handhabender und erweiterbarer Editor. 
+* [WWW Home](http://brackets.io/)
+* [Dokumentation](https://github.com/adobe/brackets/wiki)
+* [Download](https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.msi)
+
+<!--END_DOCUSAURUS_CODE_TABS-->
+
+___
 
 ## Was ist zu tun, in welcher Reihenfolge
 
@@ -21,6 +46,8 @@ sidebar_label: Installation und Dokumentation
 * [Inhalte editieren](#editing-content)
 * [Inhalte hinzufügen](#adding-content)
 * [Docusaurus  Dokumentation](#full-documentation)
+
+___
 
 # Get Started in 5 Minutes
 
@@ -41,41 +68,49 @@ sidebar_label: Installation und Dokumentation
 	
 3. Dokusaurus installieren
 
-	* Jetzt kommt etwas **Neues** für durchtrainierte Rumklicker, es kommt die Kommandozeile, wird zu jedem Windows 10 kostenfrei mitgeliefert.
-    
-	* So startet die Kommandozeile: Diesen speziellen Modus kann aus Windows heraus, über mehrere Arten aufgerufen werden.
-    
-        - Durch rechten Mausklick auf den Windows Startknopf und die Wahl der Option **Eingabeaufforderung**
-        - Selbes Menü, aber alleine per Tastatur: **[Win + X]** und danach **[A]** > Powershell als **Admin** ausführen
-        - Das Fenster **Ausführen** mit [Win + R] aufrufen, dort den Programmnamen “cmd” eingeben und die Eingabetaste drücken. Hier wird der Admin-Modus unter Win 10 nicht gestartet, kann bei der Erstinstallation zu Problemen führen; Kann!
-        - Im Startmenü von Windows den Punkt **Windows-System** öffnen und darin **Eingabeaufforderung** anklicken und mit der Maus auf **Mehr** fahren und als **Administrator ausführen** anklicken. Es erscheint das Arbeitsfenster.
-        - Die Windows Fahne unten links anklicken; es erscheint das Inhaltsverzeichnis mit den Kacheln
-        - Runterrollen, schieben, ziehen, was auch immer, bis Nodejs im Verzeichnis erscheint. Nodejs anklicken. **Nodejs Command prompt** mit der **rechten** Maustaste anklicken. Mit der Maus auf **Mehr** fahren und als **Administrator ausführen** anklicken. Es erscheint das Arbeitsfenster
-	* **STOP** Das Docusaurus - Verzeichnis erstellen - Nicht in Programme, Program Files o.ä. installieren - Unter Windows 10 kann hier nur der Administrator arbeiten und der Benutzer muss jeden Schritt seiner Untaten abnicken. Nehmt c:\\Docusaurus oder %homepath%\\Documents\\docusaurus; Deinen Windowsnamen findest du mit dem Explorer unter c:\\Benutzer (oder in Englisch unter c:\\Users); der Docusaurus Ordner kann mit dem Explorer erstellt werden, ansonsten md Docusaurus auf der Kommandozeile.
-	* Auf der Kommandozeile geben wir dann ein ein **cd c:\\Docusaurus** oder **cd %homepath%\\Documents\\Docusaurus**, also dahin wo der Docusaurus-Ordner  erstellt wurde.
-	* npm update eingeben und \<Enter\>; Wenn alles richtig installiert wurde, lädt der PC die neueste Version oder sagt "Alles OK". 
-	* Dann **npx docusaurus-init** eingeben und \<Enter\>; docusaurus wird installiert; Anzeige von Fehlern etc. ignorieren.
-	* **cd website** eingeben und \<Enter\>
-	* **npm start** eingeben und \<Enter\>; jetzt wird die Docusaurus-basierende Webseite/Installation aufgerufen. In dem Arbeitsfenster erscheint: LiveReload server 35729 und Docusaurus Server 3000; kann alles ein bisschen dauern aber dann: startet der Browser und es erscheint Docusaurus: **TaDa**
+	Jetzt kommt etwas **Neues** für durchtrainierte Rumklicker, es kommt die Kommandozeile, wird zu jedem Windows 10 kostenfrei mitgeliefert. Die Kommandozeile wird, wie folgt, gestartet: Dieser spezielle Modus kann aus Windows heraus, über mehrere Arten aufgerufen werden.
+	   
+* Durch rechten Mausklick auf den Windows Startknopf und die Wahl der Option **Eingabeaufforderung** als **Admin** (Rechte Maustaste) ausführen
+* Oder nur per Tastatur: **[Win + X]** und danach **[A]** > Powershell als **Admin** ausführen
+* Oder im Startmenü von Windows den Punkt **Windows-System** öffnen und darin **Eingabeaufforderung** anklicken und mit der Maus auf **Mehr** fahren und als **Administrator ausführen** anklicken
+* Oder die Windows Fahne unten links anklicken; es erscheint das Inhaltsverzeichnis mit den Kacheln. Runterrollen, schieben, ziehen, was auch immer, bis Nodejs im Verzeichnis erscheint. Nodejs anklicken. **Nodejs Command prompt** mit der **rechten** Maustaste anklicken. Mit der Maus auf **Mehr** fahren und als **Admin** ausführen, anklicken.
+
+* Oder was immer euch persönlich gefällt. Wir haben jetzt unser Arbeitsfenster und turnen auf der Kommandozeile herum.  
+
+> 1. Schritt:  Das Docusaurus - Verzeichnis erstellen  - Nicht in Programme, Program Files o.ä. installieren - Unter Windows 10 kann hier nur der Administrator arbeiten und der Benutzer muss jeden Schritt seiner Untaten abnicken. Zum Arbeiten mit dieser Dokumentation, nehmt **%homepath%\\Docusaurus**. Der Docusaurus Ordner kann mit dem Explorer erstellt werden, ansonsten auf der Kommandozeile, wie folgt: 
+	
+	
+	a) cd %homepath%  b) md Docusaurus  c) cd Docusaurus
+
+		
+> 2. Schritt: **npm update** eingeben und \<Enter\>; wenn alles richtig installiert wurde, lädt der PC die neueste Version oder sagt "Alles OK".
+	
+> 3. Schritt: Dann Im Docusaurus Verzeichnis **npx docusaurus-init** eingeben und \<Enter\>; docusaurus wird installiert; Anzeige von Fehlern etc. ignorieren.
+	
+> 4. Schritt: **cd website** eingeben und \<Enter\>
+
+> 5. Schritt: **npm start** eingeben und \<Enter\>; jetzt wird die Docusaurus-basierende Webseite/Installation aufgerufen. In dem Arbeitsfenster erscheint: LiveReload server 35729 und Docusaurus Server 3000; kann alles ein bisschen dauern aber dann: startet der Browser und es erscheint Docusaurus Web **TaDa**
+
 	
 4. Digital Audit installieren
 
 	* die Digital Audit Zip Datei entpacken; geht bestens mit 7-Zip; mit rechter Maustaste anklicken und zu 7-Zip den Zeiger verschieben und weiter nach entpacken nach "Digital Audit" und selbiges anklicken.
-	* In diesem Verzeichnis ist jetzt ist jetzt eine Verzeichnisstruktur.
+	* In diesem Verzeichnis ist jetzt eine Verzeichnisstruktur.
 	* Bevor kopiert wird, im Arbeitsfenster den Docusaurus  Webserver stoppen: zweimal \<Strg\>\<C\> hintereinander reicht.
 	* Jetzt die Dateien aus Digital Audit docs **in das Docusaurus-Unterverzeichnis \\docs kopieren.**
 	* Dann alle Daten und Verzeichnisse aus **static** nach "...Docusaurus\\website\\static\\" kopieren.
 	* Analog blog und core Dateien kopieren
 	* Analog sitebars.json und siteConfig.js nach Website kopieren und vorhandene Dateien überschreiben.
-	* Webserver wieder starten: Ins Arbeitsfenster zurück und im Verzeichnis Website **npm start** und \<Enter\> eingeben. Es erscheint Digital Audit im Browser; funktioniert in Edge, Chrome, Firefox und diversen anderen.
+	* webs.bat nach website kopieren: In webs.bat steht cd %homepath%\Docusaurus\website und npm start. Diese Datei kann zum Starten des Webservers auch mit dem Explorer angeklickt werden.
+	* Webserver wieder starten: Ins Arbeitsfenster zurück und webs und \<Enter\> eingeben. Es erscheint Digital Audit im Browser; funktioniert in Edge, Chrome, Firefox und diversen anderen.
 
 ## Schnellstart Webserver
 
 1. Rechner aus und wieder an
 2. Kaffee oder Tee bereitstellen
 3. Ein Arbeitsfenster als Administrator öffnen > Beispiele weiter oben
-4. **cd c:\\nodejs\\website** oder **cd %homepath%\\Documents\\Docusaurus\\website**
-5. npm start
+4. **cd %homepath%\\Documents\\Docusaurus\\website** **npm start**
+5. Oder mit dem Explorer **webs.bat** anklicken
 
 ## Directory Structure
 
@@ -127,6 +162,8 @@ nodejs/
 ```
 
 # Editing Content
+
+Notepad++ ist hier nur Platzhalter. Es kann jeder der obenaufgeführten Editoren verwendet werden. 
 
 ## Eine existierende **docs** Seite anpassen
 

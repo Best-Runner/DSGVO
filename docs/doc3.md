@@ -1,113 +1,137 @@
 ---
 id: doc3
-title: DSA-WWW-Links
+title: WWW-Links
 sidebar_label: WWW-Links
 ---
 
 ## Aufsichtsbeh&ouml;rden
 
-> [Bund](https://www.bfdi.bund.de/) Die Bundesbeauftragte f&uuml;r den Datenschutz und die Informationsfreiheit
+<table id="Tabelle3">
+<tr>
+<td>
 
-> [Baden-W&uuml;rttemberg](https://www.baden-wuerttemberg.datenschutz.de/Home/index_html) Der Landesbeauftragte f&uuml;r den Datenschutz
+* [Bund](https://www.bfdi.bund.de/) Die Bundesbeauftragte f&uuml;r den Datenschutz und die Informationsfreiheit
 
-> [Bayern-1](https://www.datenschutz-bayern.de/) Der Bayerische Landesbeauftragte f&uuml;r den Datenschutz
+* [Baden-W&uuml;rttemberg](https://www.baden-wuerttemberg.datenschutz.de/Home/index_html) Der Landesbeauftragte f&uuml;r den Datenschutz
 
-> [Bayern-2](https://www.lda.bayern.de/) Aufsichtsbeh&ouml;rde f&uuml;r den Datenschutz im nicht-&ouml;ffentlichen Bereich
+* [Bayern-1](https://www.datenschutz-bayern.de/) Der Bayerische Landesbeauftragte f&uuml;r den Datenschutz
 
-> [Berlin](https://www.datenschutz-berlin.de/) Der Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit
+* [Bayern-2](https://www.lda.bayern.de/) Aufsichtsbeh&ouml;rde f&uuml;r den Datenschutz im nicht-&ouml;ffentlichen Bereich
 
-> [Brandenburg](https://www.lda.brandenburg.de) Die Landesbeauftragte f&uuml;r den Datenschutz und das Recht auf Akteneinsicht Brandenburg
+* [Berlin](https://www.datenschutz-berlin.de/) Der Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit
 
-> [Bremen](https://www.datenschutz-bremen.de/) Die Landesbeauftragte f&uuml;r Datenschutz und Informationsfreiheit&nbsp;Bremen
+* [Brandenburg](https://www.lda.brandenburg.de) Die Landesbeauftragte f&uuml;r den Datenschutz und das Recht auf Akteneinsicht Brandenburg
 
-> [Hamburg](https://www.datenschutz-hamburg.de/) Der Hamburgische Beauftragte f&uuml;r&nbsp;Datenschutz und Informationsfreiheit
+* [Bremen](https://www.datenschutz-bremen.de/) Die Landesbeauftragte f&uuml;r Datenschutz und Informationsfreiheit&nbsp;Bremen
 
-> [Hessen] https://www.datenschutz.hessen.de/) Der Hessische Datenschutzbeauftragte
+* [Hamburg](https://www.datenschutz-hamburg.de/) Der Hamburgische Beauftragte f&uuml;r&nbsp;Datenschutz und Informationsfreiheit
 
-> [Mecklenburg-Vorpommern](https://www.lfd.m-v.de/) Der Landesbeauftragte f&uuml;r Datenschutz&nbsp;und Informationsfreiheit&nbsp;Mecklenburg-Vorpommern
+* [Hessen](https://www.datenschutz.hessen.de/) Der Hessische Datenschutzbeauftragte
 
-> [Niedersachsen](https://www.lfd.niedersachsen.de/master/C146101_L20_D0.html) Der Landesbeauftragte f&uuml;r den Datenschutz in Niedersachsen
+* [Mecklenburg-Vorpommern](https://www.lfd.m-v.de/) Der Landesbeauftragte f&uuml;r Datenschutz&nbsp;und Informationsfreiheit&nbsp;Mecklenburg-Vorpommern
 
-> [Nordrhein-Westfalen](https://www.ldi.nrw.de/) Der Landesbeauftragte f&uuml;r Datenschutz und Informationsfreiheit Nordrhein-Westfalen
+* [Niedersachsen](https://www.lfd.niedersachsen.de/master/C146101_L20_D0.html) Der Landesbeauftragte f&uuml;r den Datenschutz in Niedersachsen
 
-> [Rheinland-Pfalz](https://www.datenschutz.rlp.de/) Der Landesbeauftragte f&uuml;r den Datenschutz und die Informationsfreiheit&nbsp;Rheinland-Pfalz
+* [Nordrhein-Westfalen](https://www.ldi.nrw.de/) Der Landesbeauftragte f&uuml;r Datenschutz und Informationsfreiheit Nordrhein-Westfalen
 
-> [Saarland](https://www.datenschutz.saarland.de) Unabh&auml;ngiges&nbsp;Datenschutzzentrum Saarland
+* [Rheinland-Pfalz](https://www.datenschutz.rlp.de/) Der Landesbeauftragte f&uuml;r den Datenschutz und die Informationsfreiheit&nbsp;Rheinland-Pfalz
 
-> [Sachsen](https://www.datenschutz.sachsen.de/) Der S&auml;chsische Datenschutzbeauftragte
+* [Saarland](https://www.datenschutz.saarland.de) Unabh&auml;ngiges&nbsp;Datenschutzzentrum Saarland
 
-> [Sachsen-Anhalt] (https://www.datenschutz.sachsen-anhalt.de/) Der Landesbeauftragte f&uuml;r den Datenschutz Sachsen-Anhalt
+* [Sachsen](https://www.datenschutz.sachsen.de/) Der S&auml;chsische Datenschutzbeauftragte
 
-> [Schleswig-Holstein] (https://www.datenschutzzentrum.de/) Unabh&auml;ngiges Landeszentrum f&uuml;r Datenschutz Schleswig-Holstein
+* [Sachsen-Anhalt](https://www.datenschutz.sachsen-anhalt.de/) Der Landesbeauftragte f&uuml;r den Datenschutz Sachsen-Anhalt
 
-> [Th&uuml;ringen] (https://www.tlfdi.de/) Der Th&uuml;ringer Landesbeauftragte f&uuml;r den Datenschutz
+* [Schleswig-Holstein](https://www.datenschutzzentrum.de/) Unabh&auml;ngiges Landeszentrum f&uuml;r Datenschutz Schleswig-Holstein
+
+* [Th&uuml;ringen](https://www.tlfdi.de/) Der Th&uuml;ringer Landesbeauftragte f&uuml;r den Datenschutz
+
+</td>
+</tr>
+</table>
 
 ## Internationales 
 
-> [Datenschutz-Dachverband CEDPO&nbsp;](https://www.cedpo.eu) Confederation of European Data Protection Organisations
+<table id="Tabelle3">
+<tr>
+<td>
 
-> [AFCDP - Association Francaise des Correspondants aux Donn&eacute;es Personelles](https://www.afcdp.net/)
+* [Datenschutz-Dachverband CEDPO&nbsp;](https://www.cedpo.eu) Confederation of European Data Protection Organisations
 
-> [BfDI - &Uuml;berblick Ausl&auml;ndische Datenschutzbeh&ouml;rden](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)Homepage</a></span></span></p>
+* [AFCDP - Association Francaise des Correspondants aux Donn&eacute;es Personelles](https://www.afcdp.net/)
 
-> [Central and Eastern Europe Data Protection Authorities Web Site](https://www.ceecprivacy.org/main.php) CEEC Privacy
+* [BfDI - &Uuml;berblick Ausl&auml;ndische Datenschutzbeh&ouml;rden](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)Homepage</a>
 
-> [Europarat-1](https://www.coe.int/de/) Council of Europe
+* [Central and Eastern Europe Data Protection Authorities Web Site](https://www.ceecprivacy.org/main.php) CEEC Privacy
 
-> [Europarat-2](https://www.coe.int/T/E/Legal_affairs/Legal_co-operation/data_protection/}) Legal affairs - Legal Co-operation - Data Protection
+* [Europarat-1](https://www.coe.int/de/) Council of Europe
 
-> [EU-Kommission](https://ec.europa.eu/justice_home/fsj/privacy/)
+* [Europarat-2](https://www.coe.int/T/E/Legal_affairs/Legal_co-operation/data_protection/}) Legal affairs - Legal Co-operation - Data Protection
 
-> [Europ&auml;ischer Datenschutzbeauftragter](https://www.edps.europa.eu/EDPSWEB/edps/EDPS?lang=de)
+* [EU-Kommission](https://ec.europa.eu/justice_home/fsj/privacy/)
 
-> [Europ&auml;ischer Datenschutztag](https://www.coe.int/en/web/portal/28-january-data-protection-day) - Data Protection Day
+* [Europ&auml;ischer Datenschutzbeauftragter](https://www.edps.europa.eu/EDPSWEB/edps/EDPS?lang=de)
 
-> [EuroPriSe \(European Privacy Seal\)](https://www.european-privacy-seal.eu/)
+* [Europ&auml;ischer Datenschutztag](https://www.coe.int/en/web/portal/28-january-data-protection-day) - Data Protection Day
 
-> [IAPP - International Association of Privacy Professionals](https://www.privacyassociation.org)
+* [EuroPriSe \(European Privacy Seal\)](https://www.european-privacy-seal.eu/)
 
-> [NGFG - Nederlands Genootschap Functionarissen Gegevensbescherming}](https://www.ngfg.nl)
+* [IAPP - International Association of Privacy Professionals](https://www.privacyassociation.org)
+
+* [NGFG - Nederlands Genootschap Functionarissen Gegevensbescherming}](https://www.ngfg.nl)
+
+</td>
+</tr>
+</table>
 
 ## Sonstige
 
-> [Arbeitsgemeinschaft f&uuml;r Sicherheit der Wirtschaft e.V. ASW](https://www.asw-online.de/)
+<table id="Tabelle3">
+<tr>
+<td>
 
-> [ARGE DATEN - &Ouml;sterreichische Gesellschaft f&uuml;r Datenschutz](https://www.argedaten.at/php/cms_monitor.php?q=AD-NEWS-LAST)
+* [Arbeitsgemeinschaft f&uuml;r Sicherheit der Wirtschaft e.V. ASW](https://www.asw-online.de/)
 
-> [Arbeitsgemeinschaft f&uuml;r wirtschaftliche Verwaltung - AWV](https://www.awv-net.de/)
+* [ARGE DATEN - &Ouml;sterreichische Gesellschaft f&uuml;r Datenschutz](https://www.argedaten.at/php/cms_monitor.php?q=AD-NEWS-LAST)
 
-> [Association Francaise des Correspondants aux Donn&eacute;es Personnelles - AFCDP](https://www.afcdp.net/)
+* [Arbeitsgemeinschaft f&uuml;r wirtschaftliche Verwaltung - AWV](https://www.awv-net.de/)
 
-> [Bundesverband der Deutschen Industrie e.V. - BDI](https://www.bdi-online.de/)
+* [Association Francaise des Correspondants aux Donn&eacute;es Personnelles - AFCDP](https://www.afcdp.net/)
 
-> [BITKOM - Bundesverband Informationswirtschaft, Telekommunikation und Neue Medien e.V.](https://www.bitkom.org/)
+* [Bundesverband der Deutschen Industrie e.V. - BDI](https://www.bdi-online.de/)
 
-> [Bundesvereinigung der Deutschen Arbeitgeberverb&auml;nde e.V. - BDA](https://www.bda-online.de/)
+* [BITKOM - Bundesverband Informationswirtschaft, Telekommunikation und Neue Medien e.V.](https://www.bitkom.org/)
 
-> [Common Europe \(IBM-Benutzervereinigung\)](https://www.comeur.org/)
+* [Bundesvereinigung der Deutschen Arbeitgeberverb&auml;nde e.V. - BDA](https://www.bda-online.de/)
 
-> [Deutsche Gesellschaft f&uuml;r Recht und Informatik e.V. - DGRI](https://www.dgri.de/)
+* [Common Europe \(IBM-Benutzervereinigung\)](https://www.comeur.org/)
 
-> [Deutscher Dialogmarketing Verband e.V. - DDV](https://www.ddv.de/)
+* [Deutsche Gesellschaft f&uuml;r Recht und Informatik e.V. - DGRI](https://www.dgri.de/)
 
-> [Deutscher Industrie- und Handelskammertag e.V. - DIHK](https://www.dihk.de/)
+* [Deutscher Dialogmarketing Verband e.V. - DDV](https://www.ddv.de/)
 
-> [Externe Datenschutzbeauftragte und Datenschutzberater - eine Fachgruppe in Kooperation mit der GDD](https://externer-datenschutz.de/)
+* [Deutscher Industrie- und Handelskammertag e.V. - DIHK](https://www.dihk.de/)
 
-> [Fachverband f&uuml;r multimediale Informationsverarbeitung e.V. - FMI](https://www.fmi-ev.de/)
+* [Externe Datenschutzbeauftragte und Datenschutzberater - eine Fachgruppe in Kooperation mit der GDD](https://externer-datenschutz.de/)
 
-> [Gesellschaft f&uuml;r Informatik e.V. - GI](https://www.gi-ev.de/)
+* [Fachverband f&uuml;r multimediale Informationsverarbeitung e.V. - FMI](https://www.fmi-ev.de/)
 
-> [Haftpflichtverband der Deutschen Industrie V.a.G. - HDI](https://www.hdi.de/)
+* [Gesellschaft f&uuml;r Informatik e.V. - GI](https://www.gi-ev.de/)
 
-> [Het Nederlands Genootschap van Functionarissen voor de Gegevensbescherming - NGFG](https://www.ngfg.nl/)
+* [Haftpflichtverband der Deutschen Industrie V.a.G. - HDI](https://www.hdi.de/)
 
-> [International Association of Privacy Professionals](https://www.privacyassociation.org/)
+* [Het Nederlands Genootschap van Functionarissen voor de Gegevensbescherming - NGFG](https://www.ngfg.nl/)
 
-> [Institut der deutschen Wirtschaft e.V. - IW](https://www.iwkoeln.de/)
+* [International Association of Privacy Professionals](https://www.privacyassociation.org/)
 
-> [TeleTrust Deutschland e.V.](https://www.teletrust.de/)
+* [Institut der deutschen Wirtschaft e.V. - IW](https://www.iwkoeln.de/)
 
-> [Union of Industrial and Employers' Confederations of Europe - UNICE](https://www.unice.org/)
+* [TeleTrust Deutschland e.V.](https://www.teletrust.de/)
 
-> [Verband Deutscher Rentenversicherungstr&auml;ger e.V. - VDR](https://www.vdr.de/)
+* [Union of Industrial and Employers' Confederations of Europe - UNICE](https://www.unice.org/)
+
+* [Verband Deutscher Rentenversicherungstr&auml;ger e.V. - VDR](https://www.vdr.de/)
+
+</td>
+</tr>
+</table>

@@ -38,21 +38,24 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
+    {doc: 'dsgvo', label: 'Gesetze'},
 	{doc: 'doc1', label: 'AUDIT'},
-	{doc: 'projekt', label: 'Projekt'},
-    {doc: 'doc2', label: 'Gesetze'},
-	{doc: 'nexus', label: 'NEXUS'},
-	{doc: 'doc3', label: 'Links'},
+	{doc: 'projekt', label: 'Projekte'},
+	{doc: 'foerderung', label: 'Förderung'},
+	{doc: 'reveal', label: 'Reveal'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
  // Pfad zum editieren - Klappt noch nicht
  
- // editUrl: 'file:\\%homepath%\Docusaurus\docs/',
+ editUrl: 'file://%homepath%/Docusaurus/docs/',
  
   // If you have users set above, you add it here:
   users,
-
+	algolia: {
+		apiKey: 'b380d374e37dbd64cb6ba52314274089',
+		indexName: 'github',
+	  },
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',
