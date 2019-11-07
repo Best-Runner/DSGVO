@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "Die Webseite für den Auditor",
     "docs": {
+      "bdsg": {
+        "title": "Bundesdatenschutzgesetz",
+        "sidebar_label": "BDSG"
+      },
       "datenschutz": {
         "title": "Datenschutzerklärung",
         "sidebar_label": "Datenschutz"
@@ -25,21 +29,9 @@
         "title": "Weisheiten und Lösungsstrategien",
         "sidebar_label": "Strategische Weisheiten"
       },
-      "doc2": {
-        "title": "Datenschutzgrundverordnung",
-        "sidebar_label": "DSGVO"
-      },
-      "doc3": {
-        "title": "DSA-WWW-Links",
-        "sidebar_label": "WWW-Links"
-      },
-      "doc4": {
-        "title": "Bundesdatenschutzgesetz",
-        "sidebar_label": "BDSG"
-      },
-      "doc5": {
-        "title": "Erwägungsgründe",
-        "sidebar_label": "Erwägungsgründe"
+      "links": {
+        "title": "Datenschutz im Internet",
+        "sidebar_label": "Datenschutz im Internet"
       },
       "doc6": {
         "title": "Präsentation DSGVO",
@@ -57,9 +49,37 @@
         "title": "DSA-Marketing",
         "sidebar_label": "DSA-Marketing Abteilung"
       },
+      "dsgvo": {
+        "title": "Datenschutzgrundverordnung",
+        "sidebar_label": "DSGVO"
+      },
+      "ewg": {
+        "title": "Erwägungsgründe",
+        "sidebar_label": "Erwägungsgründe"
+      },
+      "flash01-dsa": {
+        "title": "flash01-dsa",
+        "sidebar_label": "Lernkarten DSA 01"
+      },
+      "flash01-dsb": {
+        "title": "flash01-dsb",
+        "sidebar_label": "Lernkarten DSB 01"
+      },
+      "flashcards": {
+        "title": "Lernkarten",
+        "sidebar_label": "Lernkarten"
+      },
       "foerderung": {
         "title": "Bundesmittel zur Förderung des Datenschutzes",
         "sidebar_label": "Fördermittel"
+      },
+      "geheim": {
+        "title": "Gesetz zum Schutz von Geschäftsgeheimnissen",
+        "sidebar_label": "GeschGehG"
+      },
+      "gesetze": {
+        "title": "Datenschutz basiert auf Gesetzen",
+        "sidebar_label": "Gesetze und Datenschutz"
       },
       "impressum": {
         "title": "Impressum",
@@ -69,13 +89,17 @@
         "title": "IT Service Management",
         "sidebar_label": "IT Service Management"
       },
-      "local": {
-        "title": "Lokale Aufrufe",
-        "sidebar_label": "Lokale Aufrufe"
+      "kunsturhg": {
+        "title": "kunsturhg",
+        "sidebar_label": "KunstUrhG"
       },
-      "nexus": {
-        "title": "Verknüpfungen",
-        "sidebar_label": "Verknüpfungen"
+      "liste01-dsa": {
+        "title": "liste01-dsa",
+        "sidebar_label": "Checkliste DSA 01"
+      },
+      "local": {
+        "title": "Gesammelte Werke",
+        "sidebar_label": "Material"
       },
       "projekt": {
         "title": "Projekt Vorbereitung",
@@ -97,27 +121,37 @@
         "title": "Bewertung Audit",
         "sidebar_label": "Bewertung Audit"
       },
+      "readme-2": {
+        "title": "readme-2"
+      },
+      "readme-3": {
+        "title": "readme-3"
+      },
       "readme": {
         "title": "Installation",
         "sidebar_label": "Installation und Dokumentation"
+      },
+      "reveal": {
+        "title": "Flashcards",
+        "sidebar_label": "Reveal"
       }
     },
     "links": {
-      "AUDIT": "AUDIT",
-      "Projekt": "Projekt",
       "Gesetze": "Gesetze",
-      "NEXUS": "NEXUS",
-      "Links": "Links",
-      "Help": "Help",
+      "Lernen": "Lernen",
+      "Förderung": "Förderung",
+      "AUDIT": "AUDIT",
+      "Projekte": "Projekte",
       "Blog": "Blog"
     },
     "categories": {
-      "Audit Fragenkataloge": "Audit Fragenkataloge",
-      "Projektaufgabe": "Projektaufgabe",
-      "Präsentationen": "Präsentationen",
       "Gesetze": "Gesetze",
-      "Nexus": "Nexus",
-      "Links": "Links",
+      "Lernkarten": "Lernkarten",
+      "Fördermittel": "Fördermittel",
+      "Audit Fragenkataloge": "Audit Fragenkataloge",
+      "Projekte": "Projekte",
+      "Präsentationen": "Präsentationen",
+      "Material": "Material",
       "Playground": "Playground",
       "Wichtiges": "Wichtiges"
     }

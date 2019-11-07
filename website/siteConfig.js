@@ -11,11 +11,11 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'User1',
+    caption: 'Wikipedia',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    infoLink: 'https://www.wikipedia.de/',
     pinned: true,
   },
 ];
@@ -38,17 +38,19 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'dsgvo', label: 'Gesetze'},
+    {doc: 'gesetze', label: 'Gesetze'},
+	{doc: 'flashcards', label: 'Lernen'},
+    {doc: 'foerderung', label: 'Förderung'},
 	{doc: 'doc1', label: 'AUDIT'},
 	{doc: 'projekt', label: 'Projekte'},
-	{doc: 'foerderung', label: 'Förderung'},
-	{doc: 'reveal', label: 'Reveal'},
-    {page: 'help', label: 'Help'},
+//	{doc: 'reveal', label: 'Reveal'},
+//  {page: 'help', label: 'Hilfe'},
+//	{page: 'users', label: 'User'},
     {blog: true, label: 'Blog'},
   ],
  // Pfad zum editieren - Klappt noch nicht
  
- editUrl: 'file://%homepath%/Docusaurus/docs/',
+// editUrl: 'file://%homepath%/Docusaurus/docs/',
  
   // If you have users set above, you add it here:
   users,
@@ -90,8 +92,18 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
-
+  scripts: [
+	'https://buttons.github.io/buttons.js',
+	{src: '/js/flash01-dsb.js', type: 'text/javascript',}, 
+	{src: '/js/flash01-dsa.js', type: 'text/javascript',},
+	{src: '/js/flash01-dsa-data.js', type: 'text/javascript',},
+  ],
+  stylesheets: [
+    'https://docusaurus.io/style.css',
+    {href: '/css/flash01-dsb.css', type: 'text/css'},
+	{href: '/css/flash01-dsa.css', type: 'text/css',
+    },
+  ],	
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
   // No .html extensions for paths.
@@ -109,15 +121,19 @@ const siteConfig = {
 	scrollToTop: true,
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
-  // docsSideNavCollapsible: true,
+  docsSideNavCollapsible: true,
 
   // Show documentation's last contributor's name.
   enableUpdateBy: true,
 
   // Show documentation's last update time.
   enableUpdateTime: true,
+  // Boolean flag to indicate whether HTML files in /pages should be wrapped with Docusaurus site styles, header and footer. This feature is experimental and relies on the files 
+  // being HTML fragments instead of complete pages. It inserts the contents of your HTML file with no extra processing. Defaults to false.
   
-// Übernommen aus Example Siteconfigjs
+  wrapPagesHTML: true,
+  
+  // Übernommen aus Example Siteconfigjs
 	scrollToTop: true,
 	scrollToTopOptions: {
 		zIndex: 100,

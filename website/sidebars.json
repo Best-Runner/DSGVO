@@ -1,15 +1,19 @@
 {
   "docs": {
-    "Gesetze": ["dsgvo","ewg","bdsg","geheim"],
-	"Audit Fragenkataloge": ["doc1","doc9","doc10","doc11","foerderung"],
+    "Gesetze": ["gesetze","dsgvo","ewg","bdsg","geheim","kunsturhg","links"],
+	"Lernkarten": ["flashcards","flash01-dsb","flash01-dsa","liste01-dsa"],
 	"Fördermittel": ["foerderung"],
+	"Audit Fragenkataloge": ["doc1","doc9","doc10","doc11","foerderung"],
 	"Projekte": ["projekt","projekt01","projekt02","projekt03","projekt04"],
 	"Präsentationen": ["doc6","doc7","doc12","it-itil"],
-    "Links": ["doc3","local"],
-	"Playground": ["reveal","doc8"]
+    "Material": ["local"],
+	"Playground": ["test","reveal","doc8"]
   },
   "docs-other": {
     "Wichtiges": ["datenschutz","impressum"]
+  },
+  "docs-liesmich": {
+    "Wichtiges": ["readme", "readme-2", "readme-3"]
   }
 }
 

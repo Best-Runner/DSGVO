@@ -1,9 +1,8 @@
 ---
 id: local
-title: Lokale Aufrufe 
-sidebar_label: Lokale Aufrufe
+title: Gesammelte Werke 
+sidebar_label: Material
 ---
-___
 ## PDF
 [Managing Quality - An Essential Guide and Resource Gateway](/pdf/managing-quality.pdf)
 
@@ -31,4 +30,7 @@ ___
 ## HTML
 
 [VeraCrypt Beginner's Guide](/htm/vc/BeginnerTutorial.html)
+
+[DocPad](/test.html)
+
 ___

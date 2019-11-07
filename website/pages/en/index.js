@@ -64,9 +64,9 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+			<Button href={docUrl('doc1.html')}>Datenschutz-Auditoren</Button>
+            <Button href={docUrl('doc2.html')}>Datenschutz-Beauftragte</Button>
+            <Button href="#try">Datenschutz lernen</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -96,8 +96,9 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        
+		<h1>Der Datenschutz</h1>
+        
       </div>
     );
 
@@ -106,12 +107,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'To make your landing page more attractive, use illustrations! Check out ' +
-              '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
-              'The illustrations you see on this page are from unDraw.',
+              'und attraktiv präsentieren und vermitteln. Datenschutz betrifft jeden Einzelnen in Europa und praktisch alle Unternehmen mit Kundenkontakten. Jetzt, mit der Datenschutzgrundverordnung und der europaweiten Gültigkeit, wird der Datenschutz auch in rechtlicher Hinsicht verbindlich und erzwingt mit hohen Bussgeldern auch die entsprechenden Akzeptanz.',
             image: `${baseUrl}img/undraw_personal_data_29co.svg`,
             imageAlign: 'left',
-            title: 'Wonderful SVG Illustrations',
+            title: 'Datenschutz lernen',
           },
         ]}
       </Block>
@@ -136,29 +135,35 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
+              'Wichtige Themen im Datenschutz',
             image: `${baseUrl}img/undraw_privacy_protection_nlwy.svg`,
             imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            title: 'Hier könnte etwas zum Thema Datenschutz stehen',
           },
         ]}
       </Block>
     );
 
     const Features = () => (
-      <Block layout="fourColumn">
+      <Block layout="threeColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'Der Datenschutz-Auditor ist von der zu untersuchenden Firma unabhängig und überprüft im Auftrag im Rahmen der fortlaufenden Zertifizierung regelmäßig, meist jährlich, den aktuellen Stand des Datenschutzes. Die Haupttätigkeit besteht darin, systematisch zu beurteilen, ob das bestehende Datenschutzniveau eines Unternehmens ausreichend ist und überprüft und bewertet die umgesetzten technischen und organisatorischen Maßnahmen im Rahmen der gesetzlichen Grundlagen. Der Datenschutz-Auditor ist für die Entwicklung und Steuerung des Auditprogramms und die Erstellung der Checklisten für Stichprobenprüfungen und Interviews verantwortlich.',
             image: `${baseUrl}img/undraw_setup_wizard_r6mr.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Datenschutz-Auditoren',
+          },
+		  {
+            content: 'This is the content of my feature',
+            image: `${baseUrl}img/undraw_light_the_fire_gt58.svg`,
+            imageAlign: 'top',
+            title: 'Datenschutz Informationen',
           },
           {
-            content: 'The content of my second feature',
+            content: 'Wikipedia: Ein Datenschutzbeauftragter (DSB) wirkt in einer Organisation auf die Einhaltung des Datenschutzes hin. Die Person kann Mitarbeiter dieser Organisation sein oder als externer Datenschutzbeauftragter bestellt werden. Der Datenschutzbeauftragte muss die notwendige Fachkunde für die Ausübung besitzen und darf nicht in einen Konflikt oder in die Gefahr der Selbstkontrolle geraten.<br />[Wikipedia DSB](https://de.wikipedia.org/wiki/Datenschutzbeauftragter)<br />      Seit Mai 2018 gelten die Datenschutzgrundverordnung (DSGVO) und das neue BundesdatenschutzGesetz (BDSG). Seit dem ist der Einsatz eines externen oder internen Datenschutzbeauftragten für Unternehmen die personalisierte Daten verarbeiten praktisch zwingend.',
             image: `${baseUrl}img/undraw_personal_settings_kihd.svg`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Datenschutz-Beauftragte',
           },
         ]}
       </Block>

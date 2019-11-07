@@ -40,17 +40,17 @@ class Footer extends React.Component {
             <a href={this.docUrl('doc1.html', this.props.language)}>
               Dokumente
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
+            <a href={this.docUrl('dsgvo.html', this.props.language)}>
               Datenschutz-Grundverordnung
             </a>
-            <a href={this.docUrl('doc5.html', this.props.language)}>
-              Erwägungsgründe
+			<a href={this.docUrl('readme.html', this.props.language)}>
+              Liesmich
             </a>
-			<a href={this.docUrl('doc4.html', this.props.language)}>
-              Bundesdatenschutzgesetz
+            <a href={this.docUrl('readme-1.html', this.props.language)}>
+              Liesmich auch
             </a>
-			<a href={this.docUrl('doc3.html', this.props.language)}>
-              Links
+			<a href={this.docUrl('readme-2.html', this.props.language)}>
+              Liesmich erst recht
             </a>
 		  </div>
 		  <div>

@@ -1,33 +1,19 @@
 ---
 id: geheim
-title: GeschGehG
+title:  Gesetz zum Schutz von Geschäftsgeheimnissen
 sidebar_label: GeschGehG
 ---
 <!-- "Gesetz zum Schutz von Geschäftsgeheimnissen vom 18. April 2019 (BGBl. I S. 466)" --> 
 
-
 <div class="dsa" id="ds-oben"></div>
 
-<table id="Tabelle2">
-<caption>GeschGehG Paragraphen</caption>
-	<colgroup span="10"> </colgroup>
-	<tr>
-		<td><a href="#para-1">1</a></td><td><a href="#para-2">2</a></td><td><a href="#para-3">3</a></td><td><a href="#para-4">4</a></td><td><a href="#para-5">5</a></td>
-		<td><a href="#para-6">6</a></td><td><a href="#para-7">7</a></td><td><a href="#para-8">8</a></td><td><a href="#para-9">9</a></td><td><a href="#para-10">10</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#para-11">11</a></td><td><a href="#para-12">12</a></td><td><a href="#para-13">13</a></td><td><a href="#para-14">14</a></td><td><a href="#para-15">15</a></td>
-		<td><a href="#para-16">16</a></td><td><a href="#para-17">17</a></td><td><a href="#para-18">18</a></td><td><a href="#para-19">19</a></td><td><a href="#para-20">20</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#para-21">21</a></td><td><a href="#para-22">22</a></td><td><a href="#para-23">23</a></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-	</tr>
-</table>
+<div hidden>
+
+## Direkt zum Paragraphen springen
+
+##  [[01](#para-1)] [[02](#para-2)] [[03](#para-3)] [[04](#para-4)] [[05](#para-5)] [[06](#para-6)] [[07](#para-7)] [[08](#para-8)] [[09](#para-9)] [[10](#para-10)] [[11](#para-11)] [[12](#para-12)] [[13](#para-13)] [[14](#para-14)] [[15](#para-15)] [[16](#para-16)] [[17](#para-17)] [[18](#para-18)] [[19](#para-19)] [[20](#para-20)] [[21](#para-21)] [[22](#para-22)] [[23](#para-23)]
+
 </div>
-
-___
-
-## Gesetz zum Schutz von Geschäftsgeheimnissen (GeschGehG)
 
 <div style="text-align: justify"> 
 
@@ -114,7 +100,7 @@ ___
 
 <div id="para-1" class="jtt"></div>
 
-> #### § 1 Anwendungsbereich des Gesetzes &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 1 Anwendungsbereich des Gesetzes &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Dieses Gesetz dient dem Schutz von Geschäftsgeheimnissen vor unerlaubter Erlangung, Nutzung und Offenlegung.
 
@@ -129,7 +115,7 @@ ___
 
 <div id="para-2" class="jtt"></div>
 
-> #### § 2 Begriffsbestimmungen &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 2 Begriffsbestimmungen &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Im Sinne dieses Gesetzes ist
 
@@ -157,7 +143,7 @@ Im Sinne dieses Gesetzes ist
 
 <div id="para-3" class="jtt"></div>
 
-> #### § 3 Erlaubte Handlungen &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 3 Erlaubte Handlungen &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Ein Geschäftsgeheimnis darf insbesondere erlangt werden durch
 
@@ -173,7 +159,7 @@ Im Sinne dieses Gesetzes ist
 
 <div id="para-4" class="jtt"></div>
  
-> #### § 4 Handlungsverbote &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 4 Handlungsverbote &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Ein Geschäftsgeheimnis darf nicht erlangt werden durch
 
@@ -196,7 +182,7 @@ Im Sinne dieses Gesetzes ist
 
 <div id="para-5" class="jtt"></div>
  
-> #### § 5 Ausnahmen &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 5 Ausnahmen &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Die Erlangung, die Nutzung oder die Offenlegung eines Geschäftsgeheimnisses fällt nicht unter die Verbote des § 4, wenn dies zum Schutz eines berechtigten Interesses erfolgt, insbesondere
 
@@ -211,13 +197,13 @@ ___
 
 <div id="para-6" class="jtt"></div>
 
-> #### § 6 Beseitigung und Unterlassung &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 6 Beseitigung und Unterlassung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auf Beseitigung der Beeinträchtigung und bei Wiederholungsgefahr auch auf Unterlassung in Anspruch nehmen. Der Anspruch auf Unterlassung besteht auch dann, wenn eine Rechtsverletzung erstmalig droht.
 
 <div id="para-7" class="jtt"></div>
 
-> #### § 7 Vernichtung; Herausgabe; Rückruf; Entfernung und Rücknahme vom Markt &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 7 Vernichtung; Herausgabe; Rückruf; Entfernung und Rücknahme vom Markt &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auch in Anspruch nehmen auf
 
@@ -229,7 +215,7 @@ Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auch in Anspruch
 
 <div id="para-8" class="jtt"></div>
  
-> #### § 8 Auskunft über rechtsverletzende Produkte; Schadensersatz bei Verletzung der Auskunftspflicht &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 8 Auskunft über rechtsverletzende Produkte; Schadensersatz bei Verletzung der Auskunftspflicht &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Der Inhaber des Geschäftsgeheimnisses kann vom Rechtsverletzer Auskunft über Folgendes verlangen:
 
@@ -242,7 +228,7 @@ Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auch in Anspruch
 
 <div id="para-9" class="jtt"></div>
  
-> #### § 9 Anspruchsausschluss bei Unverhältnismäßigkeit &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 9 Anspruchsausschluss bei Unverhältnismäßigkeit &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Die Ansprüche nach den §§ 6 bis 8 Absatz 1 sind ausgeschlossen, wenn die Erfüllung im Einzelfall unverhältnismäßig wäre, unter Berücksichtigung insbesondere
 
@@ -256,7 +242,7 @@ Die Ansprüche nach den §§ 6 bis 8 Absatz 1 sind ausgeschlossen, wenn die Erf�
 
 <div id="para-10" class="jtt"></div>
  
-> #### § 10 Haftung des Rechtsverletzers &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 10 Haftung des Rechtsverletzers &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Ein Rechtsverletzer, der vorsätzlich oder fahrlässig handelt, ist dem Inhaber des Geschäftsgeheimnisses zum Ersatz des daraus entstehenden Schadens verpflichtet. § 619a des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
@@ -266,7 +252,7 @@ Die Ansprüche nach den §§ 6 bis 8 Absatz 1 sind ausgeschlossen, wenn die Erf�
 
 <div id="para-11" class="jtt"></div>
  
-> #### § 11 Abfindung in Geld &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a> &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 11 Abfindung in Geld &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a> &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Ein Rechtsverletzer, der weder vorsätzlich noch fahrlässig gehandelt hat, kann zur Abwendung der Ansprüche nach den §§ 6 oder 7 den Inhaber des Geschäftsgeheimnisses in Geld abfinden, wenn dem Rechtsverletzer durch die Erfüllung der Ansprüche ein unverhältnismäßig großer Nachteil entstehen würde und wenn die Abfindung in Geld als angemessen erscheint.
 
@@ -274,19 +260,19 @@ Die Ansprüche nach den §§ 6 bis 8 Absatz 1 sind ausgeschlossen, wenn die Erf�
 
 <div id="para-12" class="jtt"></div>
  
-> #### § 12 Haftung des Inhabers eines Unternehmens &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 12 Haftung des Inhabers eines Unternehmens &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Ist der Rechtsverletzer Beschäftigter oder Beauftragter eines Unternehmens, so hat der Inhaber des Geschäftsgeheimnisses die Ansprüche nach den §§ 6 bis 8 auch gegen den Inhaber des Unternehmens. Für den Anspruch nach § 8 Absatz 2 gilt dies nur, wenn der Inhaber des Unternehmens vorsätzlich oder grob fahrlässig die Auskunft nicht, verspätet, falsch oder unvollständig erteilt hat.
 
 <div id="para-13" class="jtt"></div>
  
-> #### § 13 Herausgabeanspruch nach Eintritt der Verjährung &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 13 Herausgabeanspruch nach Eintritt der Verjährung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Hat der Rechtsverletzer ein Geschäftsgeheimnis vorsätzlich oder fahrlässig erlangt, offengelegt oder genutzt und durch diese Verletzung eines Geschäftsgeheimnisses auf Kosten des Inhabers des Geschäftsgeheimnisses etwas erlangt, so ist er auch nach Eintritt der Verjährung des Schadensersatzanspruchs nach § 10 zur Herausgabe nach den Vorschriften des Bürgerlichen Gesetzbuchs über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet. Dieser Anspruch verjährt sechs Jahre nach seiner Entstehung.
 
 <div id="para-14" class="jtt"></div>
  
-> #### § 14 Missbrauchsverbot &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 14 Missbrauchsverbot &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Die Geltendmachung der Ansprüche nach diesem Gesetz ist unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände missbräuchlich ist. Bei missbräuchlicher Geltendmachung kann der Anspruchsgegner Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen verlangen. Weitergehende Ersatzansprüche bleiben unberührt.
 
@@ -297,7 +283,7 @@ ___
 
 <div id="para-15" class="jtt"></div>
 
-> #### § 15 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 15 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Für Klagen vor den ordentlichen Gerichten, durch die Ansprüche nach diesem Gesetz geltend gemacht werden, sind die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig.
 
@@ -307,7 +293,7 @@ ___
 
 <div id="para-16" class="jtt"></div>
  
-> #### § 16 Geheimhaltung &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 16 Geheimhaltung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Bei Klagen, durch die Ansprüche nach diesem Gesetz geltend gemacht werden (Geschäftsgeheimnisstreitsachen) kann das Gericht der Hauptsache auf Antrag einer Partei streitgegenständliche Informationen ganz oder teilweise als geheimhaltungsbedürftig einstufen, wenn diese ein Geschäftsgeheimnis sein können.
 
@@ -317,19 +303,19 @@ ___
 
 <div id="para-17" class="jtt"></div>
  
-> #### § 17 Ordnungsmittel &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 17 Ordnungsmittel &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Das Gericht der Hauptsache kann auf Antrag einer Partei bei Zuwiderhandlungen gegen die Verpflichtungen nach § 16 Absatz 2 ein Ordnungsgeld bis zu 100 000 Euro oder Ordnungshaft bis zu sechs Monaten festsetzen und sofort vollstrecken. Bei der Festsetzung von Ordnungsgeld ist zugleich für den Fall, dass dieses nicht beigetrieben werden kann, zu bestimmen, in welchem Maße Ordnungshaft an seine Stelle tritt. Die Beschwerde gegen ein nach Satz 1 verhängtes Ordnungsmittel entfaltet aufschiebende Wirkung.
 
 <div id="para-18" class="jtt"></div>
  
-> #### § 18 Geheimhaltung nach Abschluss des Verfahrens &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 18 Geheimhaltung nach Abschluss des Verfahrens &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 Die Verpflichtungen nach § 16 Absatz 2 bestehen auch nach Abschluss des gerichtlichen Verfahrens fort. Dies gilt nicht, wenn das Gericht der Hauptsache das Vorliegen des streitgegenständlichen Geschäftsgeheimnisses durch rechtskräftiges Urteil verneint hat oder sobald die streitgegenständlichen Informationen für Personen in den Kreisen, die üblicherweise mit solchen Informationen umgehen, bekannt oder ohne Weiteres zugänglich werden.
 
 <div id="para-19" class="jtt"></div>
  
-> #### § 19 Weitere gerichtliche Beschränkungen &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 19 Weitere gerichtliche Beschränkungen &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Zusätzlich zu § 16 Absatz 1 beschränkt das Gericht der Hauptsache zur Wahrung von Geschäftsgeheimnissen auf Antrag einer Partei den Zugang ganz oder teilweise auf eine bestimmte Anzahl von zuverlässigen Personen
 
@@ -347,7 +333,7 @@ Dies gilt nur, soweit nach Abwägung aller Umstände das Geheimhaltungsinteresse
 
 <div id="para-20" class="jtt"></div>
  
-> #### § 20 Verfahren bei Maßnahmen nach den §§ 16 bis 19 &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 20 Verfahren bei Maßnahmen nach den §§ 16 bis 19 &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Das Gericht der Hauptsache kann eine Beschränkung nach § 16 Absatz 1 und § 19 Absatz 1 ab Anhängigkeit des Rechtsstreits anordnen.
 
@@ -366,7 +352,7 @@ Dies gilt nur, soweit nach Abwägung aller Umstände das Geheimhaltungsinteresse
 
 <div id="para-21" class="jtt"></div>
  
-> #### § 21 Bekanntmachung des Urteils &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 21 Bekanntmachung des Urteils &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Der obsiegenden Partei einer Geschäftsgeheimnisstreitsache kann auf Antrag in der Urteilsformel die Befugnis zugesprochen werden, das Urteil oder Informationen über das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn die obsiegende Partei hierfür ein berechtigtes Interesse darlegt. Form und Umfang der öffentlichen Bekanntmachung werden unter Berücksichtigung der berechtigten Interessen der im Urteil genannten Personen in der Urteilsformel bestimmt.
 
@@ -381,7 +367,7 @@ Dies gilt nur, soweit nach Abwägung aller Umstände das Geheimhaltungsinteresse
 
 <div id="para-22" class="jtt"></div>
  
-> #### § 22 Streitwertbegünstigung &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 22 Streitwertbegünstigung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Macht bei Geschäftsgeheimnisstreitsachen eine Partei glaubhaft, dass die Belastung mit den Prozesskosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag anordnen, dass die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach dem ihrer Wirtschaftslage angepassten Teil des Streitwerts bemisst.
 
@@ -400,7 +386,7 @@ ___
 
 <div id="para-23" class="jtt"></div>
 
-> #### § 23 Verletzung von Geschäftsgeheimnissen &nnsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### § 23 Verletzung von Geschäftsgeheimnissen &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer zur Förderung des eigenen oder fremden Wettbewerbs, aus Eigennutz, zugunsten eines Dritten oder in der Absicht, dem Inhaber eines Unternehmens Schaden zuzufügen,
 

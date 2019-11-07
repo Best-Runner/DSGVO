@@ -1,0 +1,119 @@
+/* flash01-dsa */
+
+/* Erste Tabelle mit der Frage in einer Zeile ************/
+#dsTop {
+	position: relative;
+	top: 0em; 
+}
+
+#dsaFrage {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	top: -2.0em; 
+    left: 0.5em;; 
+    height: 6em;
+	width:100%;
+	font-size: 20px;
+	color: green;
+}
+#dsaListeF {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	top: -2.0em; 
+    left: 0.5em;; 
+	width:100%;
+	font-size: 20px;
+	color: green;
+}
+
+/* Zweite Zeile der Tabelle mit den Antworten ************/
+table#dsaTab1 {
+	position: relative;
+	top: -2em; 
+    height: 32em;
+	width: 100%;
+	font-size: 18px;
+	color: black;
+	border: none;
+}
+table#dsaTab1 td {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	height: 3.8em;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid blue;
+}
+table#dsaListe1 {
+	position: relative;
+    height: 32em;
+	width: 100%;
+	font-size: 12px;
+	color: black;
+	border: 1px solid blue;
+}
+table#dsaListe1 td {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 1px solid blue;
+}
+
+/* In Tab1 rechts ***************************************/
+
+.antwort {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	font-size: 16px;
+
+}
+/* Positionierung der Buttons*****************************/
+
+#dsaTab2 {
+	position: sticky;
+	display: flex;
+	bottom: 10em;
+}
+#rot {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Positionierung der Hinweisfelder **********************/
+
+#dsaTab3 {
+	position: sticky;
+	display: flex;
+	font-size: 18px;
+	bottom: 5em;
+/*	border: 1px dashed blue; */
+}
+
+/* Positionierung Hinweisfelder***************************/
+
+#dsaTab3out {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Berechnung Ergebnisse *********************************/
+
+.ausgabe{
+	position: sticky;
+	bottom: 3em;
+	height: 2em;
+	width:780px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+}

@@ -1,5 +1,5 @@
 ---
-id: doc3
+id: links
 title: WWW-Links
 sidebar_label: WWW-Links
 ---

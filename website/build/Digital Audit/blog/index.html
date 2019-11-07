@@ -1,0 +1,484 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Blog · Digital Audit</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Die Webseite für den Auditor"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Blog · Digital Audit"/><meta property="og:type" content="website"/><meta property="og:url" content="https://valuegrid.info/"/><meta property="og:description" content="Die Webseite für den Auditor"/><meta property="og:image" content="https://valuegrid.info/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://valuegrid.info/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/img/favicon.ico"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://valuegrid.info/blog/atom.xml" title="Digital Audit Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://valuegrid.info/blog/feed.xml" title="Digital Audit Blog RSS Feed"/><link rel="stylesheet" href="https://docusaurus.io/style.css"/><link rel="stylesheet" href="/css/flash01-dsb.css" type="text/css"/><link rel="stylesheet" href="/css/flash01-dsa.css" type="text/css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script type="text/javascript" src="/js/flash01-dsb.js"></script><script type="text/javascript" src="/js/flash01-dsa.js"></script><script type="text/javascript" src="/js/flash01-dsa-data.js"></script><script src="https://unpkg.com/vanilla-back-to-top@7.1.14/dist/vanilla-back-to-top.min.js"></script><script>
+        document.addEventListener('DOMContentLoaded', function() {
+          addBackToTop(
+            {"zIndex":100}
+          )
+        });
+        </script><script src="/js/scrollSpy.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="blog"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/en"><img class="logo" src="/img/favicon.ico" alt="Digital Audit"/><h2 class="headerTitleWithLogo">Digital Audit</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/docs/en/gesetze" target="_self">Gesetze</a></li><li class=""><a href="/docs/en/flashcards" target="_self">Lernen</a></li><li class=""><a href="/docs/en/foerderung" target="_self">Förderung</a></li><li class=""><a href="/docs/en/doc1" target="_self">AUDIT</a></li><li class=""><a href="/docs/en/projekt" target="_self">Projekte</a></li><li class="siteNavGroupActive siteNavItemActive"><a href="/blog/" target="_self">Blog</a></li><li class="navSearchWrapper reactNavSearchWrapper"><input type="text" id="search_input_react" placeholder="Search" title="Search"/></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/blog/2019/10/12/Flashcard10">Flashcard 10 Fragen und Antworten</a></li><li class="navListItem"><a class="navItem" href="/blog/2019/09/01/blog-post">New Version 1.0.0</a></li><li class="navListItem"><a class="navItem" href="/blog/2017/10/24/new-version-1.0.0">New Version 1.0.0</a></li><li class="navListItem"><a class="navItem" href="/blog/2017/09/26/adding-rss">Adding RSS Support</a></li><li class="navListItem"><a class="navItem" href="/blog/2017/09/25/testing-rss">Adding RSS Support - RSS Truncation Test</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="posts"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2019/10/12/Flashcard10">Flashcard 10 Fragen und Antworten</a></h1><p class="post-meta">October 12, 2019</p><div class="authorBlock"><p class="post-authorName"><a href="" target="_blank" rel="noreferrer noopener">Datensicherung</a></p></div></header><article class="post-content"><div><span><h2><a class="anchor" aria-hidden="true" id="html-und-js-stecken-im-source-dieser-seite"></a><a href="#html-und-js-stecken-im-source-dieser-seite" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>html und js stecken im Source dieser Seite</h2>
+<!DOCTYPE html>
+<html lang="en">
+<p><head>
+<meta charset="utf-8">
+<title>JavaScript Flashcards</title>
+<meta name="author" content="Your Name">
+<meta name="description" content="Flashcard">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="fool.css"></p>
+<!--
+JavaScript Flashcards Version 2.1
+-->
+<SCRIPT>
+"use strict";
+<p>// Arrays initialisieren
+let  q = new Array(); // Original Frage
+let a1 = new Array(); // Original Antwort
+let a2 = new Array();
+let a3 = new Array();
+let l1 = new Array(); // Original Lösung
+let l2 = new Array();
+let l3 = new Array();
+let nq = new Array(); // Kopie von q wird zerstört
+let na1= new Array(); // Kopie von a wird zerstört
+let na2= new Array();
+let na3= new Array();
+let nl1= new Array(); // Kopie von l wird zerstört
+let nl2= new Array();
+let nl3= new Array();</p>
+<p>// Alle Eingabenm für dei Flashcards kommen hierrein:
+// Array q = Fragetext / Array a = Antworten / Array L = Lösung / Alles in Anführungsstriche schreiben und einschließen. Hervorhebungen innerhalb mit einfachem Hochkomma kennzeichnen.
+var y = 0;
+q[y]=&quot;Die DSGVO für die Verantwortlichen zwingend ab wann zu beachten?&quot;;
+l1[y]=false; a1[y]=&quot;Verstöße gegen die DSGVO können von den Behörden auch vor dem 25.05.2018 sanktioniert werden.&quot;;
+l2[y]=false; a2[y]=&quot;Am 24.05.2016 und unmittelbar anwendbar&quot;;
+l3[y]=true;  a3[y]=&quot;Die DSGVO ist am 24.05.2016 in Kraft getreten, verbindlich anzuwenden erst ab dem 25.05.2018&quot;;
+y++
+q[y]=&quot;Die Datenschutzgrundverordnung ...&quot;;
+l1[y]=true;  a1[y]=&quot;... gilt unmittelbar in allen Mitgliedstaaten.&quot;;
+l2[y]=true;  a2[y]=&quot;... enthält Öffnungsklauseln, welche es den Mitgliedstaaten ermöglichen, im Rahmen der DSGVO ergänzend eigene Datenschutzvorschriften zu erlassen.&quot;;
+l3[y]=false; a3[y]=&quot;... muss erst in eigenes Rechts (BDSG) umgesetzt werden und gilt dann unmittelbar.&quot;;
+y++
+q[y]=&quot;Anonymisierte Daten ...&quot;;
+l1[y]=false; a1[y]=&quot;fallen in den Schutzbereich der DSGVO.&quot;;
+l2[y]=true;  a2[y]=&quot;fallen nicht in den Schutzbereich der DSGVO.&quot;;
+l3[y]=false; a3[y]=&quot;werden in Art. 5 DSGVO definiert.&quot;;
+y++
+q[y]=&quot;Das neue Bundesdatenschutzgesetz (BDSG neu) ...&quot;;
+l1[y]=true;  a1[y]=&quot;... ist mit Wirkung zum 25.05.2018 angepasst worden und ist Teil des Datenschutz-Anpassungs- u. Umsetzungsgesetzes (DSAnpUG-EU).&quot;;
+l2[y]=false; a2[y]=&quot;... setzt die DSGVO um.&quot;;
+l3[y]=false; a3[y]=&quot;... spezifiziert in Teil 1 und 2 datenschutzrechtliche Regelungen entsprechend der Öffnungsklauseln der DSGVO.&quot;;
+y++
+q[y]=&quot;In welchem Zeitraum sind die Betroffenenrechte vom Verantwortlichen zu erfüllen?&quot;;
+l1[y]=false; a1[y]=&quot;innerhalb von 42 Tagen ab Geltendmachung der Betroffenenrechte.&quot;;
+l2[y]=false; a2[y]=&quot;innerhalb von 24 Stunden nach Eingang des Antrags des Betroffenen mit der Option, diese Frist auf 72 Stunden zu verlängern.&quot;;
+l3[y]=true;  a3[y]=&quot;unverzüglich bzw. grundsätzlich innerhalb von einem Monat&quot;;
+y++
+q[y]=&quot;Welche Grundsätze benennt die DSGVO?&quot;;
+l1[y]=true;  a1[y]=&quot;Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz.&quot;;
+l2[y]=true;  a2[y]=&quot;Zweckbindung, Datenminimierung, Richtigkeit.&quot;;
+l3[y]=true;  a3[y]=&quot;Speicherbegrenzung, Integrität und Vertraulichkeit, Rechenschaftspflicht.&quot;;
+y++
+q[y]=&quot;Welche wesentlichen Voraussetzungen müssen entsprechend der DSGVO vorliegen, damit eine Person zum Datenschutzbeauftragten (DSB) benannt werden kann?&quot;;
+l1[y]=true;  a1[y]=&quot;Der DSB erfüllt die Mindestanforderungen für den Datenschutz an Fachkunde und Unabhängigkeit nach § 7 BDSG.&quot;;
+l2[y]=false; a2[y]=&quot;Insbesondere wird der DSB aufgrund seines IT-Fachwissens, das er zur Erfüllung seiner Aufgaben benötigt, benannt&quot;;
+l3[y]=true;  a3[y]=&quot;Der DSB besitzt die Fähigkeiten zur Erfüllung der in Artikel 39 genannten Aufgaben.&quot;;
+y++
+q[y]=&quot;Sie prüfen eine schriftliche Einwilligung gem. Art. 7 DSGVO des Betroffenen zur Datenerhebung. Worauf müssen Sie achten, damit diese Einwilligung formal-juristisch korrekt ist?&quot;;
+l1[y]=true;  a1[y]=&quot;Der Verantwortliche sollte nachweisen können, dass die betroffene Person ihre Einwilligung zu dem Verarbeitungsvorgang gegeben hat.&quot;;
+l2[y]=true;  a2[y]=&quot;Die Einwilligung erfolgte Freiwillig, Zwanglos und Nachweislich.&quot;;
+l3[y]=true;  a3[y]=&quot;Die Einwilligung kann jederzeit, durch die betroffenen Person, widerrufen werden.&quot;;
+y++
+q[y]=&quot;Muss der Verantwortliche im Falle einer Datenerhebung beim Betroffenen seinen Informationspflichten nachkommen? Und wenn, wann?&quot;;
+l1[y]=true;  a1[y]=&quot;Ja&quot;;
+l2[y]=false; a2[y]=&quot;Nein&quot;;
+l3[y]=false; a3[y]=&quot;Innerhalb von 72 Stunden bzw. innerhalb eines Monats&quot;;
+y++
+q[y]=&quot;Erläutern Sie den Begriff 'Pseudonymisieren'.&quot;;
+l1[y]=true;  a1[y]=&quot;Austausch der personenbezogenen Daten, so dass eine Nachvollziehbarkeit für Dritte ausgeschlossen ist und nicht mehr spezifisch betroffenen Personen zugeordnet werden kann.&quot;;
+l2[y]=true;  a2[y]=&quot;Bei der zur Pseudonymisierung wird der Name durch ein Pseudonym, zum Beispiel eine Chiffre oder Hash-Code, ersetzt. Diese zusätzlichen Informationen werden gesondert aufbewahrt und unterliegen technischen und organisatorischen Maßnahmen, die gewährleisten, dass eine Re-Pseudonymisierung nur noch eingeschränkt möglich ist.&quot;;
+l3[y]=false; a3[y]=&quot;Die pseudonymisierten Daten unterliegen nicht mehr der DSGVO, da diese Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden können.&quot;;</p>
+<p>//Initialisierung der Anzeigefelder
+var numoffields=4; // Zur Zeit vier Ausgabefelder
+var multireview=true; // Alle Karten werden zyklisch angezeigt, bis alle angezeigt wurden</p>
+<p>//initialize the numbers:
+var currentcard    = 0;
+var currentscore   = 0;
+var currentpercent = 0;
+var total          = 0;
+var ntotal         = 0;</p>
+<p>//initialize the references:
+var entryref       = null;
+var answer1ref     = null;
+var answer2ref     = null;
+var answer3ref     = null;
+var chkbox1ref     = null;
+var chkbox2ref     = null;
+var chkbox3ref     = null;
+var nextref        = null;
+var wrongref       = null;
+var backref        = null;
+var forwref        = null;
+var percentref     = null;
+var scoreref       = null;
+var cardnumberref  = null;
+var totalref       = null;
+var messref        = null;</p>
+<p>var started        = false;</p>
+<p>var auswahl        = 0;</p>
+<p>var pruefe_l1      = null;  // Achtung ist Array
+var pruefe_l2      = null;
+var pruefe_l3      = null;</p>
+<p>let flagg = false;</p>
+<p>// Default ist &quot;false&quot;
+var show1=false; //field 1
+var show2=false; //field 2
+var show3=false; //field 3
+var show4=false; //field 4</p>
+<p>function Konsole(i){
+var i;
+console.log(&quot;Zugriff von    &quot; + i);
+console.log(&quot;Referenzen     &quot;);
+console.log(&quot;entryref       &quot; + entryref);
+console.log(&quot;answer1ref     &quot; + answer1ref);
+console.log(&quot;answer2ref     &quot; + answer2ref);<br>
+console.log(&quot;answer3ref     &quot; + answer3ref);<br>
+console.log(&quot;chkbox1ref     &quot; + chkbox1ref);
+console.log(&quot;chkbox2ref     &quot; + chkbox2ref);<br>
+console.log(&quot;chkbox3ref     &quot; + chkbox3ref);<br>
+console.log(&quot;nextref        &quot; + nextref);<br>
+console.log(&quot;wrongref       &quot; + wrongref);<br>
+console.log(&quot;percentref     &quot; + percentref);<br>
+console.log(&quot;scoreref       &quot; + scoreref);<br>
+console.log(&quot;cardnumberref  &quot; + cardnumberref);
+console.log(&quot;totalref       &quot; + totalref);
+console.log(&quot;messref        &quot; + messref);
+console.log(&quot;started        &quot; + started);
+console.log(&quot;Voreinstellung Zahlen&quot;);
+console.log(&quot;currentcard    &quot; + currentcard);
+console.log(&quot;currentscore   &quot; + currentscore);
+console.log(&quot;currentpercent &quot; + currentpercent);
+console.log(&quot;total          &quot; + total);
+}</p>
+<p>// **************************************************************************</p>
+<p>function starte(){
+findrefs();
+begin();
+}</p>
+<p>function findrefs(){ // Zur Initialisierung Daten aus Browser ziehen (getElementById)
+entryref      = document.getElementById(&quot;entry&quot;);
+answer1ref    = document.getElementById(&quot;answer1&quot;);
+answer2ref    = document.getElementById(&quot;answer2&quot;);
+answer3ref    = document.getElementById(&quot;answer3&quot;);
+chkbox1ref    = document.getElementById(&quot;field1&quot;);
+chkbox2ref    = document.getElementById(&quot;field2&quot;);
+chkbox3ref    = document.getElementById(&quot;field3&quot;);
+backref       = document.getElementById(&quot;back&quot;);
+forwref       = document.getElementById(&quot;forw&quot;);
+percentref    = document.getElementById(&quot;percent&quot;);
+scoreref      = document.getElementById(&quot;score&quot;);
+cardnumberref = document.getElementById(&quot;cardnumber&quot;);
+totalref      = document.getElementById(&quot;alle&quot;);
+messref       = document.getElementById(&quot;mess&quot;);
+}</p>
+<p>function begin(){ // Alle sicht- und unsichbaren Daten auf Null und den Bildschirm putzen.</p>
+<p>// Initialisierung zum Start und Wiederholung
+started       = true;
+currentcard   = 1;
+currentscore  = 0;
+currentpercent= 0.0;</p>
+<p>// Alle Buttons und Antworteinträge sichtbar machen und zurücksetzen
+answer1ref.style.color =&quot;black&quot;;
+answer2ref.style.color =&quot;black&quot;;
+answer3ref.style.color =&quot;black&quot;;
+backref.style.visibility =&quot;visible&quot;;
+forwref.style.visibility =&quot;visible&quot;;
+document.getElementById(&quot;field1&quot;).checked = false; // checkbox
+document.getElementById(&quot;field2&quot;).checked = false;
+document.getElementById(&quot;field3&quot;).checked = false;
+//  percentref.innerHTML    = &quot;Prozent : &quot; + currentpercent + &quot;%&quot;;</p>
+<p>// 1. Benutzerhinweis<br>
+messref.innerHTML=&quot;Start anklicken für Neustart.&quot;;</p>
+<p>// q enthält die Anzahl Elemente / Fragen<br>
+total=q.length;</p>
+<p>// nq verweist auf q /alle Arrays nur in Kopie manipulieren / q bleibt immer gleich
+nq=q.slice(0);</p>
+<p>// na enthält die möglichen Antworten
+na1=a1.slice(0);
+na2=a2.slice(0);
+na3=a3.slice(0);</p>
+<p>// nl enthält die Lösungen
+nl1=l1.slice(0);
+nl2=l2.slice(0);
+nl3=l3.slice(0);</p>
+<p>// Anzahl Karten ins Display<br>
+totalref.innerHTML      = &quot;von &quot;       + total;</p>
+<p>// Anzeige erste Frage
+shownext();
+}</p>
+<p>function shownext(){// Überprüft das Ergebnis und schickt die Knöpfe in den Hintergrund, wenn alle Fragen beantwortet.</p>
+<pre><code class="hljs">answer1ref.style.color =&quot;black&quot;; // Schriftfarbe zurücksetzen
+answer2ref.style.color =&quot;black&quot;;
+answer3ref.style.color =&quot;black&quot;;
+flagg = false;
+
+document.getElementById(&quot;field1&quot;).checked = false; // Checkboxen zurücksetzen
+document.getElementById(&quot;field2&quot;).checked = false;
+document.getElementById(&quot;field3&quot;).checked = false;
+</code></pre>
+<p>// 1. Durchlauf und weitere werden in updatescore() geprüft
+updatescore();</p>
+<p>// Alle Karten wurden bearbeitet<br>
+if (nq.length==0){
+if (currentcard &gt; total) cardnumberref.innerHTML = &quot;Karte   : &quot; + total;
+started=false;
+messref.innerHTML=&quot;Alle Flashcards vervollständigt. Start anklicken um von vorne loszulegen.&quot;;
+// Alle Fragen durch: Buttons verstecken
+backref.style.visibility=&quot;hidden&quot;;
+forwref.style.visibility=&quot;hidden&quot;;
+}
+else {  // weiter mit Anzeigen
+displayentry();
+}
+}</p>
+<p>function updatescore(){// Richtig und Falsch kalkuliert und als Prozentangabe
+//  currentcard wird von forward() und backward() gesteuert</p>
+<pre><code class="hljs">if (currentcard &gt; total)currentcard = total;
+
+if ((currentcard &gt;= 1) &amp;&amp; (currentcard &lt;= total+1)){ // zwischen 1 und Länge Array von Null
+</code></pre>
+<p>//      currentpercent          = Math.round(100*(total/currentscore));
+cardnumberref.innerHTML = &quot;Karte   : &quot; + currentcard;</p>
+<pre><code class="hljs">    scoreref.innerHTML      = &quot;Ergebnis: &quot; + currentscore   + &quot; / &quot; + total;
+
+}
+</code></pre>
+<p>}</p>
+<p>function displayentry(){ //zeigt Frage und Antwort passend an</p>
+<p>// Zufallszahl auswählen
+auswahl = Math.round(Math.random()*(nq.length-1)); //NQ nicht NG</p>
+<p>// Ausgewählter Eintrag aus den Arrays löschen,
+// so dass sie beim nächsten Durchlauf nicht erscheinen.
+// Die Länge des Arrays nq.length wird automatisch um 1 reduziert.
+entryref.innerHTML   = nq.splice(auswahl,1);  //anzeigen
+var chosena1         = na1.splice(auswahl,1); //zuweisen
+answer1ref.innerHTML = chosena1;              //anzeigen
+var chosena2         = na2.splice(auswahl,1); //zuweisen
+answer2ref.innerHTML = chosena2;              //anzeigen
+var chosena3         = na3.splice(auswahl,1); //zuweisen
+answer3ref.innerHTML = chosena3;              //anzeigen
+pruefe_l1            = nl1.splice(auswahl,1); //zuweisen
+pruefe_l2            = nl2.splice(auswahl,1); //zuweisen
+pruefe_l3            = nl3.splice(auswahl,1); //zuweisen
+}</p>
+<p>function forward(){ // Vorwärts und shownext()
+flagg = false;
+currentpercent=0;
+percentref.innerHTML = &quot;Prozent : &quot; + currentpercent + &quot;%&quot;;
+currentscore++;
+currentcard++; // Aktuelle Karte hochzählen
+shownext();
+}</p>
+<p>function proof(){// Überprüfen</p>
+<p>let antw1 = true;
+let antw2 = true;
+let antw3 = true;
+let cbox1 = true;
+let cbox2 = true;
+let cbox3 = true;
+let pruf1 = true;
+let pruf2 = true;
+let pruf3 = true;</p>
+<p>flagg = true; // proof wurde besucht
+currentpercent=0;</p>
+<p>// Arraywert auf normale Variable zuweisen
+antw1=pruefe_l1[0];antw2=pruefe_l2[0];antw3=pruefe_l3[0];
+cbox1=chkbox1ref.checked;cbox2=chkbox2ref.checked;cbox3=chkbox3ref.checked; // Verkürzung</p>
+<p>// Wahr ist, wenn beide Werte True oder False sind
+pruf1 = (cbox1 &amp;&amp; antw1);
+pruf2 = (cbox2 &amp;&amp; antw2);
+pruf3 = (cbox3 &amp;&amp; antw3);</p>
+<p>// Anzeige ob Treffer oder nicht
+pruefung(pruf1, 1, cbox1, antw1);
+pruefung(pruf2, 2, cbox2, antw2);
+pruefung(pruf3, 3, cbox3, antw3);
+}</p>
+<p>function pruefung(box, nr, cbox, antw){
+var box, cbox, antw; //true oder false
+var nr; // Antwort</p>
+<pre><code class="hljs">switch (nr) {
+    case 1:
+        if(box){
+        answer1ref.style.color =&quot;green&quot;;
+        } else {
+            answer1ref.style.color =&quot;red&quot;;
+            document.getElementById(&quot;field1&quot;).checked = false;
+            document.getElementById(&quot;answer1&quot;).style.fontSize = &quot;18px&quot;;
+        }
+        break;
+    case 2 :
+        if(box) { 
+        answer2ref.style.color =&quot;green&quot;;
+        } else {
+            answer2ref.style.color =&quot;red&quot;;
+            document.getElementById(&quot;field2&quot;).checked = false;
+            document.getElementById(&quot;answer2&quot;).style.fontSize = &quot;18px&quot;;
+        }
+        break;
+    case 3 :
+        if(box){ 
+        answer3ref.style.color =&quot;green&quot;;
+        }
+        else {
+            answer3ref.style.color =&quot;red&quot;;
+            document.getElementById(&quot;field3&quot;).checked = false;
+            document.getElementById(&quot;answer3&quot;).style.fontSize = &quot;18px&quot;;
+        }
+        break;
+        
+}
+
+if(!cbox){
+        if(!antw){ 
+            currentpercent += 33.33;
+        } 
+}
+if(box) currentpercent += 33.33;
+
+percentref.innerHTML = &quot;Prozent : &quot; + Math.round(currentpercent) + &quot;%&quot;;
+</code></pre>
+<p>}
+//TOGGLE: This function controlls the visibility of various fields on the &quot;front&quot; of the flashcard
+function toggle(fieldnum){
+switch (fieldnum) {
+case 1:
+show1=true;
+break;
+case 2 :
+show2=true;
+break;
+case 3 :
+show3=true;
+break;
+}<br>
+}</p>
+</script>
+<p></head></p>
+<body onLoad="starte()"> <!-- Zwei Funktionen zum Initialisieren --> 
+<form name="flash" id="flash">
+<div id="entry" name="entry" class="entry"></div>
+<table id="Tabelle8" >
+    <tr>
+        <td class="chkbox"><input name="field1" id="field1" type="checkbox" onClick="toggle(1)"></td>
+        <td class="ansbox" name="answer1" id="answer1"></td>
+    </tr>
+    <tr>
+        <td class="chkbox"><input name="field2" id="field2" type="checkbox" onClick="toggle(2)"></td>
+        <td class="ansbox" name="answer2" id="answer2"></td>
+    </tr>
+    <tr>
+        <td class="chkbox"><input name="field3" id="field3" type="checkbox" onClick="toggle(3)"></td>
+        <td class="ansbox" name="answer3" id="answer3"></td>
+    </tr>
+</table>
+<div class="knopfpos"><input name="restart" type="button" class="knopf rot"     id="restart" value="Start " onClick="starte()"/>
+                      <input name="back"    type="button" class="knopf gruen"   id="back"    value="Prüfen" onClick="proof()"/>
+                      <input name="forw"    type="button" class="knopf orange"  id="forw"    value="Weiter" onClick="forward()"/>
+</div>
+<div id="mess" name="mess" class="sectiontitle"></div>
+<table id="Tabelle9" >
+    <tr><td id="cardnumber" name="cardnumber" class="cardnumber"></td><td id="alle" name="alle" class="alle"></td></tr>  
+    <tr><td id="score"      name="score"      class="score"     ></td><td id="percent"    name="percent"    class="percent"   ></td></tr>
+</table>
+</form>
+</body>
+</html>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2019/09/01/blog-post">New Version 1.0.0</a></h1><p class="post-meta">September 1, 2019</p><div class="authorBlock"><p class="post-authorName"><a target="_blank" rel="noreferrer noopener">KB</a></p><div class="authorPhoto"><a target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="KB"/></a></div></div></header><article class="post-content"><div><span><p>Es ist ein Wunsch aller Prüflinge: Nach der Staatsprüfung möchte man gerne sehen, welches Korrekturschicksal die eigenen Klausuren erlitten haben. Wer sich diesen Wunsch erfüllen möchte, muss gegenwärtig noch einen bürokratischen Hürdenlauf absolvieren. Dafür sehen die Länderregelungen unterschiedliche Prozeduren vor. Viel Zeit hat man nicht, es läuft nur eine kurze Monatsfrist.</p>
+<p>Große zeitliche Flexibilität gibt es dabei auch nicht. Häufig müssen sich Prüflinge auf Bürostunden einrichten (&quot;In der Zeit von 9.00 Uhr bis 11.30 Uhr sind wir montags bis freitags in Zimmer 6 für Sie da.&quot;) Und selbst, ob man Kopien anfertigen darf oder sich auf handschriftliche Notizen beschränken muss, ist vielerorts umstritten.</p>
+<p>Immerhin: Einige Bundesländer kommen den Kandidaten etwas entgegen. In logistischer Hinsicht ist das etwa in Niedersachsen der Fall. Dort kann man sich die Prüfungsakte an ein Gericht der ordentlichen Gerichtsbarkeit übersenden lassen, um dann bei Gericht Einsicht zu nehmen – dafür entsteht aber natürlich eine Gebühr. Und in Nordrhein-Westfalen ist es gar möglich, innerhalb der Monatsfrist gegen Kostenerstattung Kopien der Bearbeitungen und der Aufgabentexte anzufordern. Das kostet dann für die ersten 50 Seiten (vorzuleistende) 50 Cent pro Seite. Danach wird es mit 15 Cent pro Seite preiswerter. Prüflinge in Bundesländern ohne diesen (wenn auch teuren) Service müssen einen Anwalt einschalten, damit dieser eine Kopierchance hat.</p>
+<p>Eigentlich ist das alles Geschichte
+Seit dem 20. Dezember 2017 ist das – bisher allerdings hierzulande unbemerkt - alles Geschichte. Zu verdanken haben wir das Peter Nowak aus Irland und dem Gerichtshof der Europäischen Union (EuGH). Nachdem Peter Nowak in einer Prüfung durchgefallen war, hatte er zunächst erfolglos Beschwerde gegen das Prüfungsergebnis eingelegt. Danach stellte er bei der prüfenden Einrichtung einen Antrag auf Auskunft, der sich auf sämtliche dort befindlichen ihn betreffenden personenbezogenen Daten erstreckte. Die originelle Idee war dabei die, dass er auf diese Weise auch seine Prüfungsarbeit zu erhalten hoffte, denn diese sah er als &quot;personenbezogenes Datum&quot; an. Die Herausgabe der Prüfungsarbeit wurde indessen mit der Begründung abgelehnt, diese enthalte keine personenbezogenen Daten im Sinne des (irischen) Datenschutzgesetzes. Dieser ablehnenden Auffassung schlossen sich der Datenschutzbeauftragte und weitere Gerichtsinstanzen an.</p>
+<p>Erst der Oberste Gerichtshof Irlands sah sich veranlasst, dem EuGH die Frage vorzulegen, ob Informationen, die von einem Prüfling in einer berufsbezogenen Prüfung in seiner Antwort bzw. als Antwort aufgezeichnet wurden, personenbezogene Daten im Sinne der Richtlinie 95/46 darstellen können. Der EuGH hat das in der Rechtssache C-434/16 bejaht:</p>
+<p>&quot;Art. 2 Buchst. a der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr ist dahin auszulegen, dass unter Umständen wie denen des Ausgangsverfahrens die schriftlichen Antworten eines Prüflings in einer berufsbezogenen Prüfung und etwaige Anmerkungen des Prüfers zu diesen Antworten ‚personenbezogene Daten‘ im Sinne dieser Bestimmung darstellen.&quot;</p>
+<p>Eine besondere Pointe ist es, dass die Anmerkungen des Prüfers als auf den Prüfling bezogene Informationen und damit als personenbezogene Daten (auch) des Prüflings angesehen werden. Diese Zuordnung &quot;wird nicht dadurch entkräftet, dass diese Anmerkungen zugleich Informationen über den Prüfer darstellen&quot;.</p>
+<p>Was das in Zukunft bedeutet
+Bleibt vorher noch eine Frage zu klären: Da die Datenschutzgrundverordnung (DSGVO), die am 25. Mai 2018 in Kraft tritt, die Richtlinie 95/46 mit Wirkung von diesem Datum an aufhebt, ist zunächst offen, ob die Entscheidung des EuGH unter der DSGVO Bestand haben wird. Denn die im Leitsatz zitierte Richtlinie gilt dann ja nicht mehr.</p>
+<p>Die Antwort darauf gibt der EuGH implizit, indem er zwar unter  die Richtlinie 95/46 subsumiert, zugleich aber in den Randnummern 11-13 seiner Entscheidung die Parallelvorschriften aus der DSGVO aufführt und bei der Erörterung von Grenzen des Auskunftsrechts die DSGVO parallel zur Richtlinie 95/46 heranzieht (Rn. 59-61).</p>
+<p>In Abwandlung des bekannten Kirchmann'schen Diktums kann man sagen: Eine Entscheidung des EuGH und ganze Papierberge von Regelungen zur Einsichtnahme in Prüfungsarbeiten werden zu Makulatur. Prüflinge, die Einsicht nehmen wollen, können sich auf die EuGH-Entscheidung berufen und einen entsprechenden Auskunftsanspruch gegenüber den Prüfungsämtern geltend machen.</p>
+<p>Wie man sich sogar die Kopierkosten sparen kann
+Wenn man daran geht, die prüfungsrechtlichen Vorschriften zur Akteneinsicht europarechtskonform auszugestalten, sind noch einige weitere Anregungen des EuGH zu berücksichtigen. Zu diesen Hausaufgaben für die Prüfungsämter gehört es nach der Entscheidung nämlich unter anderem, über einen Löschungsanspruch nachzudenken. Denn: Ein Prüfling hat möglicherweise das Recht zu verlangen, dass seine Prüfungsantworten und die Anmerkungen des Prüfers dazu nach einem bestimmten Zeitraum gelöscht werden, das heißt, dass die Arbeit zerstört wird.</p>
+<p>Nur eines geht nicht: Der Prüfling kann nicht verlangen, dass seine falschen Antworten im Wege der Berichtigung in zutreffende verwandelt werden, so wie Irland das in seiner Stellungnahme befürchtet hatte. Das halten die Luxemburger Richter ausdrücklich fest.</p>
+<p>Ein kleiner Trost bleibt den Prüfungsämtern: Der Auskunftsanspruch erstreckt sich nicht auf Prüfungsfragen, da diese nicht personenbezogene Daten des Prüflings seien, so der EuGH. Es wird ja hier und da – aus welchen Gründen auch immer - einiger Aufwand betrieben, um die Aufgabenstellungen &quot;abzuschirmen&quot;.</p>
+<p>Die Behörden sollten bei Gelegenheit der nötigen Gesamtrevision der Klausureinsichtnahme gleich dem guten Beispiel Nordrhein-Westfalens folgen. Denn dort kann man &quot;gegen Kostenerstattung Kopien der Bearbeitungen und der Aufgabentexte&quot; anfordern. Allerdings: Nur bei der Kostenerstattung kann es nicht bleiben. Denn das ist das Sahnehäubchen in der EuGH-Entscheidung, die Art. 15 Abs. 3 DSGVO zitiert. Diese Bestimmung lautet:</p>
+<p>&quot;Der Verantwortliche stellt eine Kopie der personenbezogenen Daten, die Gegenstand der Verarbeitung sind, zur Verfügung. Für alle weiteren Kopien, die die betroffene Person beantragt, kann der Verantwortliche ein angemessenes Entgelt auf der Grundlage der Verwaltungskosten verlangen. Stellt die betroffene Person den Antrag elektronisch, so sind die Informationen in einem gängigen elektronischen Format zur Verfügung zu stellen, sofern sie nichts anderes angibt.&quot;</p>
+<p>Also gilt nun europarechtlich: Post ans Prüfungsamt genügt und die Kopien der Klausuren mit Prüferbemerkungen kommen kostenlos ins Haus,  gegebenenfalls sogar elektronisch.</p>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2017/10/24/new-version-1.0.0">New Version 1.0.0</a></h1><p class="post-meta">October 24, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>This blog post will test file name parsing issues when periods are present.</p>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2017/09/26/adding-rss">Adding RSS Support</a></h1><p class="post-meta">September 26, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+</span></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2017/09/25/testing-rss">Adding RSS Support - RSS Truncation Test</a></h1><p class="post-meta">September 25, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener">Eric Nakagawa</a></p><div class="authorPhoto"><a href="http://twitter.com/ericnakagawa" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/661277173/picture/?height=200&amp;width=200" alt="Eric Nakagawa"/></a></div></div></header><article class="post-content"><div><span><p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+</span></div><div class="read-more"><a class="button" href="/blog/2017/09/25/testing-rss">Read More</a></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2017/04/10/blog-post-two">New Blog Post</a></h1><p class="post-meta">April 10, 2017</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener">Blog Author</a></p><div class="authorPhoto"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/100002976521003/picture/?height=200&amp;width=200" alt="Blog Author"/></a></div></div></header><article class="post-content"><div><span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+</span></div><div class="read-more"><a class="button" href="/blog/2017/04/10/blog-post-two">Read More</a></div></article></div><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2016/03/11/blog-post">Blog Title</a></h1><p class="post-meta">March 11, 2016</p><div class="authorBlock"><p class="post-authorName"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener">Blog Author</a></p><div class="authorPhoto"><a href="http://twitter.com/" target="_blank" rel="noreferrer noopener"><img src="https://graph.facebook.com/100002976521003/picture/?height=200&amp;width=200" alt="Blog Author"/></a></div></div></header><article class="post-content"><div><span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+</span></div><div class="read-more"><a class="button" href="/blog/2016/03/11/blog-post">Read More</a></div></article></div><div class="docs-prevnext"></div></div></div></div></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/" class="nav-home"><img src="/img/favicon.ico" alt="Digital Audit" width="66" height="58"/></a><div><h5>Docs</h5><a href="/docs/en/doc1.html">Dokumente</a><a href="/docs/en/dsgvo.html">Datenschutz-Grundverordnung</a><a href="/docs/en/readme.html">Liesmich</a><a href="/docs/en/readme-1.html">Liesmich auch</a><a href="/docs/en/readme-2.html">Liesmich erst recht</a></div><div><h5>Wichtiges</h5><a href="/docs/en/datenschutz.html">Datenschutzerklärung</a><a href="/docs/en/impressum.html">Impressum</a></div><div><h5>Community</h5><a href="/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a></div><div><h5>More</h5><a href="/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><section class="copyright">Copyright © 2019 Value Grid</section></footer></div><script type="text/javascript" src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script><script>
+                document.addEventListener('keyup', function(e) {
+                  if (e.target !== document.body) {
+                    return;
+                  }
+                  // keyCode for '/' (slash)
+                  if (e.keyCode === 191) {
+                    const search = document.getElementById('search_input_react');
+                    search && search.focus();
+                  }
+                });
+              </script><script>
+              var search = docsearch({
+                
+                apiKey: 'b380d374e37dbd64cb6ba52314274089',
+                indexName: 'github',
+                inputSelector: '#search_input_react'
+              });
+            </script></body></html>

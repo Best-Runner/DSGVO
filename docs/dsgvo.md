@@ -5,57 +5,19 @@ sidebar_label: DSGVO
 ---
 <div class="dsa" id="ds-oben"></div>
 
-___
+<div hidden>
 
-<table id="Tabelle2">
-	<caption>DSGVO: direkt zum Artikel</caption>
-	<colgroup span="10"> </colgroup>
-	<tr>
-		<td><a href="#art-1">1</a></td><td><a href="#art-2">2</a></td><td><a href="#art-3">3</a></td><td><a href="#art-4">4</a></td><td><a href="#art-5">5</a></td>
-		<td><a href="#art-6">6</a></td><td><a href="#art-7">7</a></td><td><a href="#art-8">8</a></td><td><a href="#art-9">9</a></td><td><a href="#art-10">10</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-11">11</a></td><td><a href="#art-12">12</a></td><td><a href="#art-13">13</a></td><td><a href="#art-14">14</a></td><td><a href="#art-15">15</a></td>
-		<td><a href="#art-16">16</a></td><td><a href="#art-17">17</a></td><td><a href="#art-18">18</a></td><td><a href="#art-19">19</a></td><td><a href="#art-20">20</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-21">21</a></td><td><a href="#art-22">22</a></td><td><a href="#art-23">23</a></td><td><a href="#art-24">24</a></td><td><a href="#art-25">25</a></td>
-		<td><a href="#art-26">26</a></td><td><a href="#art-27">27</a></td><td><a href="#art-28">28</a></td><td><a href="#art-29">29</a></td><td><a href="#art-30">30</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-31">31</a></td><td><a href="#art-32">32</a></td><td><a href="#art-33">33</a></td><td><a href="#art-34">34</a></td><td><a href="#art-35">35</a></td>
-		<td><a href="#art-36">36</a></td><td><a href="#art-37">37</a></td><td><a href="#art-38">38</a></td><td><a href="#art-39">39</a></td><td><a href="#art-40">40</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-41">41</a></td><td><a href="#art-42">42</a></td><td><a href="#art-43">43</a></td><td><a href="#art-44">44</a></td><td><a href="#art-45">45</a></td>
-		<td><a href="#art-46">46</a></td><td><a href="#art-47">47</a></td><td><a href="#art-48">48</a></td><td><a href="#art-49">49</a></td><td><a href="#art-50">50</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-51">51</a></td><td><a href="#art-52">52</a></td><td><a href="#art-53">53</a></td><td><a href="#art-54">54</a></td><td><a href="#art-55">55</a></td>
-		<td><a href="#art-56">56</a></td><td><a href="#art-57">57</a></td><td><a href="#art-58">58</a></td><td><a href="#art-59">59</a></td><td><a href="#art-60">60</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-61">61</a></td><td><a href="#art-62">62</a></td><td><a href="#art-63">63</a></td><td><a href="#art-64">64</a></td><td><a href="#art-65">65</a></td>
-		<td><a href="#art-66">66</a></td><td><a href="#art-67">67</a></td><td><a href="#art-68">68</a></td><td><a href="#art-69">69</a></td><td><a href="#art-70">70</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-71">71</a></td><td><a href="#art-72">72</a></td><td><a href="#art-73">73</a></td><td><a href="#art-74">74</a></td><td><a href="#art-75">75</a></td>
-		<td><a href="#art-76">76</a></td><td><a href="#art-77">77</a></td><td><a href="#art-78">78</a></td><td><a href="#art-79">79</a></td><td><a href="#art-80">80</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-81">81</a></td><td><a href="#art-82">82</a></td><td><a href="#art-83">83</a></td><td><a href="#art-84">84</a></td><td><a href="#art-85">85</a></td>
-		<td><a href="#art-86">86</a></td><td><a href="#art-87">87</a></td><td><a href="#art-88">88</a></td><td><a href="#art-89">89</a></td><td><a href="#art-90">90</a></td> 
-	</tr>
-	<tr>
-		<td><a href="#art-91">91</a></td><td><a href="#art-92">92</a></td><td><a href="#art-93">93</a></td><td><a href="#art-94">94</a></td><td><a href="#art-95">95</a></td>
-		<td><a href="#art-96">96</a></td><td><a href="#art-97">97</a></td><td><a href="#art-98">98</a></td><td>&nbsp;</td><td>&nbsp;</td> 
-</table>
+## Direkt zum Artikel springen
 
-<table id="Tabelle3">
-	<tr><td><a href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE">Link zum EU Original</a></td></tr>	
-</table>
+##  [[01](#art-1)] [[02](#art-2)] [[03](#art-3)] [[04](#art-4)] [[05](#art-5)] [[06](#art-6)] [[07](#art-7)] [[08](#art-8)] [[09](#art-9)] [[10](#art-10)] [[11](#art-11)] [[12](#art-12)] [[13](#art-13)] [[14](#art-14)] [[15](#art-15)] [[16](#art-16)] [[17](#art-17)] [[18](#art-18)] [[19](#art-19)] [[20](#art-20)] [[21](#art-21)] [[22](#art-22)] [[23](#art-23)] [[24](#art-24)] [[25](#art-25)] [[26](#art-26)] [[27](#art-27)] [[28](#art-28)] [[29](#art-29)] [[30](#art-30)] [[31](#art-31)] [[32](#art-32)] [[33](#art-33)] [[34](#art-34)] [[35](#art-35)] [[36](#art-36)] [[37](#art-37)] [[38](#art-38)] [[39](#art-39)] [[40](#art-40)] [[41](#art-41)] [[42](#art-42)] [[43](#art-43)] [[44](#art-44)] [[45](#art-45)] [[46](#art-46)] [[47](#art-47)] [[48](#art-48)] [[49](#art-49)] [[50](#art-50)] [[51](#art-51)] [[52](#art-52)] [[53](#art-53)] [[54](#art-54)] [[55](#art-55)] [[56](#art-56)] [[57](#art-57)] [[58](#art-58)] [[59](#art-59)] [[60](#art-60)] [[61](#art-61)] [[62](#art-62)] [[63](#art-63)] [[64](#art-64)] [[65](#art-65)] [[66](#art-66)] [[67](#art-67)] [[68](#art-68)] [[69](#art-69)] [[70](#art-70)] [[71](#art-71)] [[72](#art-72)] [[73](#art-73)] [[74](#art-74)] [[75](#art-75)] [[76](#art-76)] [[77](#art-77)] [[78](#art-78)] [[79](#art-79)] [[80](#art-80)] [[81](#art-81)] [[82](#art-82)] [[83](#art-83)] [[84](#art-84)] [[85](#art-85)] [[86](#art-86)] [[87](#art-87)] [[88](#art-88)] [[89](#art-89)] [[90](#art-90)] [[91](#art-91)] [[92](#art-92)] [[93](#art-93)] [[94](#art-94)] [[95](#art-95)] [[96](#art-96)] [[97](#art-97)] [[98](#art-98)]
 
-___
+</div>
+
+<div hidden>
+
+## [>>Link zum EU Original>>](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE)
+
+</div>
 
 ## [KAPITEL I - Allgemeine Bestimmungen](#kapitel-1)
 <nav>
@@ -239,7 +201,7 @@ ____
 
 <div id="art-1" class="jtt"></div>
 
-> #### Artikel 1 - Gegenstand und Ziele &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 1 - Gegenstand und Ziele &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-1>1</a> - <a href=/docs/en/ewg#ewg-2>2</a> - <a href=/docs/en/ewg#ewg-3>3</a> - <a href=/docs/en/ewg#ewg-4>4</a> - <a href=/docs/en/ewg#ewg-5>5</a> - <a href=/docs/en/ewg#ewg-6>6</a> - <a href=/docs/en/ewg#ewg-7>7</a> - <a href=/docs/en/ewg#ewg-8>8</a> - <a href=/docs/en/ewg#ewg-9>9</a> - <a href=/docs/en/ewg#ewg-10>10</a> - <a href=/docs/en/ewg#ewg-11>11</a> - <a href=/docs/en/ewg#ewg-12>12</a>
@@ -253,7 +215,7 @@ ____
 
 <div id="art-2" class="jtt"></div>
 
-> #### Artikel 2 - Sachlicher Anwendungsbereich &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 2 - Sachlicher Anwendungsbereich &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-13>13</a> - <a href=/docs/en/ewg#ewg-14>14</a> - <a href=/docs/en/ewg#ewg-15>15</a> - <a href=/docs/en/ewg#ewg-16>16</a> - <a href=/docs/en/ewg#ewg-17>17</a> - <a href=/docs/en/ewg#ewg-18>18</a> - <a href=/docs/en/ewg#ewg-19>19</a> - <a href=/docs/en/ewg#ewg-20>20</a> - <a href=/docs/en/ewg#ewg-21>21</a> - <a href=/docs/en/ewg#ewg-27>27</a>
@@ -276,7 +238,7 @@ ____
 
 <div id="art-3" class="jtt" ></div>
  
-> #### Artikel 3 - Räumlicher Anwendungsbereich &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 3 - Räumlicher Anwendungsbereich &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-22>22</a> - <a href=/docs/en/ewg#ewg-23>23</a> - <a href=/docs/en/ewg#ewg-24>24</a> - <a href=/docs/en/ewg#ewg-25>25</a>
@@ -296,7 +258,7 @@ ____
 
 <div id="art-4" class="jtt" ></div>
   
-> ####  Artikel 4 - Begriffsbestimmungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ####  Artikel 4 - Begriffsbestimmungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-15>15</a> - <a href=/docs/en/ewg#ewg-24>24</a> - <a href=/docs/en/ewg#ewg-26>26</a> - <a href=/docs/en/ewg#ewg-28>28</a> - <a href=/docs/en/ewg#ewg-29>29</a> - <a href=/docs/en/ewg#ewg-30>30</a> - <a href=/docs/en/ewg#ewg-31>31</a> - <a href=/docs/en/ewg#ewg-34>34</a> - <a href=/docs/en/ewg#ewg-35>35</a> - <a href=/docs/en/ewg#ewg-36>36</a> - <a href=/docs/en/ewg#ewg-37>37</a>
@@ -355,7 +317,7 @@ ___
 
 <div id="art-5" class="jtt" ></div>
 
-> #### Artikel 5 - Grundsätze für die Verarbeitung personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 5 - Grundsätze für die Verarbeitung personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-39>39</a>
@@ -377,7 +339,7 @@ ___
 
 <div id="art-6" class="jtt" ></div>
 
-> #### Artikel 6 - Rechtmäßigkeit der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 6 - Rechtmäßigkeit der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-39>39</a> - <a href=/docs/en/ewg#ewg-40>40</a> - <a href=/docs/en/ewg#ewg-41>41</a> - <a href=/docs/en/ewg#ewg-42>42</a> - <a href=/docs/en/ewg#ewg-43>43</a> - <a href=/docs/en/ewg#ewg-44>44</a> - <a href=/docs/en/ewg#ewg-45>45</a> - <a href=/docs/en/ewg#ewg-46>46</a> - <a href=/docs/en/ewg#ewg-47>47</a> - <a href=/docs/en/ewg#ewg-48>48</a> - <a href=/docs/en/ewg#ewg-49>49</a> - <a href=/docs/en/ewg#ewg-50>50</a> - <a href=/docs/en/ewg#ewg-171>171</a>
@@ -415,7 +377,7 @@ Der Zweck der Verarbeitung muss in dieser Rechtsgrundlage festgelegt oder hinsic
 
 <div id="art-7" class="jtt" ></div>
 
-> ####  Artikel 7 - Bedingungen für die Einwilligung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ####  Artikel 7 - Bedingungen für die Einwilligung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-32>32</a> - <a href=/docs/en/ewg#ewg-33>33</a> - <a href=/docs/en/ewg#ewg-42>42</a> - <a href=/docs/en/ewg#ewg-43>43</a>
@@ -430,7 +392,7 @@ Der Zweck der Verarbeitung muss in dieser Rechtsgrundlage festgelegt oder hinsic
 
 <div id="art-8" class="jtt" ></div>
 
-> ##### Artikel 8 - Bedingungen für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 8 - Bedingungen für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-38>38</a>
@@ -445,7 +407,7 @@ Der Zweck der Verarbeitung muss in dieser Rechtsgrundlage festgelegt oder hinsic
 <div id="art-9" class="jtt" ></div>
 
  
-> ####  Artikel 9 - Verarbeitung besonderer Kategorien personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ####  Artikel 9 - Verarbeitung besonderer Kategorien personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-46>46</a> - <a href=/docs/en/ewg#ewg-51>51</a> - <a href=/docs/en/ewg#ewg-52>52</a> - <a href=/docs/en/ewg#ewg-53>53</a> - <a href=/docs/en/ewg#ewg-54>54</a> - <a href=/docs/en/ewg#ewg-55>55</a> - <a href=/docs/en/ewg#ewg-56>56</a> 
@@ -474,7 +436,7 @@ Der Zweck der Verarbeitung muss in dieser Rechtsgrundlage festgelegt oder hinsic
  
 <div id="art-10" class="jtt" ></div>
 
-> ##### Artikel 10 - Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 10 - Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-50>50</a>
@@ -484,7 +446,7 @@ Die Verarbeitung personenbezogener Daten über strafrechtliche Verurteilungen un
  
 <div id="art-11" class="jtt" ></div>
  
-> ##### Artikel 11 - Verarbeitung, für die eine Identifizierung der betroffenen Person nicht erforderlich ist  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 11 - Verarbeitung, für die eine Identifizierung der betroffenen Person nicht erforderlich ist  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-57>57</a>
@@ -500,7 +462,7 @@ ___
 
 <div id="art-12" class="jtt" ></div>
 
-> ##### Art.12 - Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Art.12 - Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-58>58</a> - <a href=/docs/en/ewg#ewg-59>59</a> - <a href=/docs/en/ewg#ewg-60>60</a> - <a href=/docs/en/ewg#ewg-73>73</a>
@@ -524,7 +486,7 @@ ___
  
 <div id="art-13" class="jtt" ></div>
  
-> ##### Artikel 13 - Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 13 - Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-60>60</a> - <a href=/docs/en/ewg#ewg-61>61</a> - <a href=/docs/en/ewg#ewg-62>62</a>
@@ -558,7 +520,7 @@ ___
  
 <div id="art-14" class="jtt" ></div>
  
-> ##### Art.14 - Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Art.14 - Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-60>60</a> - <a href=/docs/en/ewg#ewg-61>61</a> - <a href=/docs/en/ewg#ewg-62>62</a>
@@ -607,7 +569,7 @@ ___
  
 <div id="art-15" class="jtt" ></div>
  
-> #### Artikel 15 - Auskunftsrecht der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 15 - Auskunftsrecht der betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-63>63</a> - <a href=/docs/en/ewg#ewg-64>64</a>
@@ -634,7 +596,7 @@ ___
  
 <div id="art-16" class="jtt" ></div>
 
-> #### Artikel 16 - Recht auf Berichtigung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 16 - Recht auf Berichtigung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-65>65</a>
@@ -645,7 +607,7 @@ Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die 
  
 <div id="art-10" class="jtt" ></div>
  
-> #### Artikel 17 - Recht auf Löschung („Recht auf Vergessenwerden“)  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 17 - Recht auf Löschung („Recht auf Vergessenwerden“)  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-39>39</a> - <a href=/docs/en/ewg#ewg-65>65</a> - <a href=/docs/en/ewg#ewg-66>66</a>
@@ -677,7 +639,7 @@ Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die 
  
 <div id="art-18" class="jtt" ></div>
  
-> #### Artikel 18 - Recht auf Einschränkung der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 18 - Recht auf Einschränkung der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-67>67</a>
@@ -699,7 +661,7 @@ Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die 
   
 <div id="art-19" class="jtt" ></div>
 
-> ##### Artikel 19 - Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 19 - Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-66>66</a>
@@ -709,7 +671,7 @@ Der Verantwortliche teilt allen Empfängern, denen personenbezogenen Daten offen
  
 <div id="art-20" class="jtt" ></div>
  
-> #### Artikel 20 - Recht auf Datenübertragbarkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 20 - Recht auf Datenübertragbarkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-68>68</a>
@@ -730,7 +692,7 @@ Der Verantwortliche teilt allen Empfängern, denen personenbezogenen Daten offen
  
 <div id="art-21" class="jtt" ></div>
  
-> #### Artikel 21 - Widerspruchsrecht  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 21 - Widerspruchsrecht  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-69>69</a> - <a href=/docs/en/ewg#ewg-70>70</a>
@@ -748,7 +710,7 @@ Der Verantwortliche teilt allen Empfängern, denen personenbezogenen Daten offen
  
 <div id="art-22" class="jtt" ></div>
  
-> #### Artikel 22 - Automatisierte Entscheidungen im Einzelfall einschließlich Profiling  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 22 - Automatisierte Entscheidungen im Einzelfall einschließlich Profiling  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-71>71</a> - <a href=/docs/en/ewg#ewg-72>72</a> - <a href=/docs/en/ewg#ewg-91>91</a>
@@ -770,7 +732,7 @@ Der Verantwortliche teilt allen Empfängern, denen personenbezogenen Daten offen
  
 <div id="art-23" class="jtt" ></div>
  
-> #### Artikel 23 - Beschränkungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 23 - Beschränkungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-73>73</a>
@@ -811,7 +773,7 @@ ___
  
 <div id="art-24" class="jtt" ></div>
 
-> #### Artikel 24 - Verantwortung des für die Verarbeitung Verantwortlichen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 24 - Verantwortung des für die Verarbeitung Verantwortlichen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Der Verantwortliche setzt unter Berücksichtigung der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere der Risiken für die Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen um, um sicherzustellen und den Nachweis dafür erbringen zu können, dass die Verarbeitung gemäß dieser Verordnung erfolgt. Diese Maßnahmen werden erforderlichenfalls überprüft und aktualisiert.</li>
@@ -821,7 +783,7 @@ ___
   
 <div id="art-25" class="jtt" ></div>
 
-> ##### Artikel 25 - Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 25 - Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-78>78</a>
@@ -835,7 +797,7 @@ ___
  
 <div id="art-26" class="jtt" ></div>
  
-> #### Artikel 26 - Gemeinsam Verantwortliche  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 26 - Gemeinsam Verantwortliche  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-79>79</a>
@@ -849,7 +811,7 @@ ___
  
 <div id="art-27" class="jtt" ></div>
  
-> ##### Artikel 27 - Vertreter von nicht in der Union niedergelassenen Verantwortlichen oder Auftragsverarbeitern  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 27 - Vertreter von nicht in der Union niedergelassenen Verantwortlichen oder Auftragsverarbeitern  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-80>80</a>
@@ -870,7 +832,7 @@ ___
  
 <div id="art-28" class="jtt" ></div>
 
-> #### Artikel 28 - Auftragsverarbeiter  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 28 - Auftragsverarbeiter  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-81>81</a>
@@ -902,13 +864,13 @@ Mit Blick auf Unterabsatz 1 Buchstabe h informiert der Auftragsverarbeiter den V
  
 <div id="art-29" class="jtt" ></div>
  
-> ##### Artikel 29 - Verarbeitung unter der Aufsicht des Verantwortlichen oder des Auftragsverarbeiters  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 29 - Verarbeitung unter der Aufsicht des Verantwortlichen oder des Auftragsverarbeiters  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 Der Auftragsverarbeiter und jede dem Verantwortlichen oder dem Auftragsverarbeiter unterstellte Person, die Zugang zu personenbezogenen Daten hat, dürfen diese Daten ausschließlich auf Weisung des Verantwortlichen verarbeiten, es sei denn, dass sie nach dem Unionsrecht oder dem Recht der Mitgliedstaaten zur Verarbeitung verpflichtet sind.
  
 <div id="art-30" class="jtt" ></div>
  
-> #### Artikel 30 - Verzeichnis von Verarbeitungstätigkeiten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 30 - Verzeichnis von Verarbeitungstätigkeiten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-13>13</a> - <a href=/docs/en/ewg#ewg-82>82</a>
@@ -941,7 +903,7 @@ Der Auftragsverarbeiter und jede dem Verantwortlichen oder dem Auftragsverarbeit
  
 <div id="art-31" class="jtt" ></div>
  
-> #### Artikel 31 - Zusammenarbeit mit der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 31 - Zusammenarbeit mit der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-82>82</a>
@@ -951,7 +913,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-32" class="jtt" ></div>
  
-> #### Artikel - 32 Sicherheit der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel - 32 Sicherheit der Verarbeitung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-75>75</a> - <a href=/docs/en/ewg#ewg-76>76</a> - <a href=/docs/en/ewg#ewg-77>77</a> - <a href=/docs/en/ewg#ewg-78>78</a> - <a href=/docs/en/ewg#ewg-79>79</a> - <a href=/docs/en/ewg#ewg-83>83</a>
@@ -973,7 +935,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-33" class="jtt" ></div>
  
-> ##### Artikel 33 - Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 33 - Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-85>85</a> - <a href=/docs/en/ewg#ewg-87>87</a> - <a href=/docs/en/ewg#ewg-88>88</a>
@@ -996,7 +958,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-34" class="jtt" ></div>
  
-> ##### Art.34 - Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Art.34 - Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-86>86</a> - <a href=/docs/en/ewg#ewg-87>87</a> - <a href=/docs/en/ewg#ewg-88>88</a>
@@ -1018,7 +980,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-35" class="jtt" ></div>
  
-> #### Artikel 35 - Datenschutz-Folgenabschätzung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 35 - Datenschutz-Folgenabschätzung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-75>75</a> - <a href=/docs/en/ewg#ewg-84>84</a> - <a href=/docs/en/ewg#ewg-89>89</a> - <a href=/docs/en/ewg#ewg-90>90</a> - <a href=/docs/en/ewg#ewg-91>91</a> - <a href=/docs/en/ewg#ewg-92>92</a> - <a href=/docs/en/ewg#ewg-93>93</a>
@@ -1053,7 +1015,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-36" class="jtt" ></div>
  
-> #### Artikel 36 - Vorherige Konsultation  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 36 - Vorherige Konsultation  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-94>94</a> - <a href=/docs/en/ewg#ewg-95>95</a> - <a href=/docs/en/ewg#ewg-96>96</a>
@@ -1078,7 +1040,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-37" class="jtt" ></div>
  
-> #### Artikel 37 - Benennung eines Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 37 - Benennung eines Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-97>97</a>
@@ -1103,7 +1065,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-38" class="jtt" ></div>
  
-> #### Artikel 38 - Stellung des Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 38 - Stellung des Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-97>97</a>
@@ -1121,7 +1083,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-39" class="jtt" ></div>
 
-> #### Artikel 39 - Aufgaben des Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 39 - Aufgaben des Datenschutzbeauftragten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-97>97</a>
@@ -1143,7 +1105,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-40" class="jtt" ></div>
  
-> #### Artikel 40 - Verhaltensregeln  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 40 - Verhaltensregeln  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-98>98</a> - <a href=/docs/en/ewg#ewg-99>99</a>
@@ -1179,7 +1141,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-41" class="jtt" ></div>
  
-> #### Artikel 41 - Überwachung der genehmigten Verhaltensregeln  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 41 - Überwachung der genehmigten Verhaltensregeln  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Unbeschadet der Aufgaben und Befugnisse der zuständigen Aufsichtsbehörde gemäß den Artikeln 57 und 58 kann die Überwachung der Einhaltung von Verhaltensregeln gemäß Artikel 40 von einer Stelle durchgeführt werden, die über das geeignete Fachwissen hinsichtlich des Gegenstands der Verhaltensregeln verfügt und die von der zuständigen Aufsichtsbehörde zu diesem Zweck akkreditiert wurde.</li>
@@ -1199,7 +1161,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-42" class="jtt" ></div>
  
-> #### Artikel 42 - Zertifizierung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 42 - Zertifizierung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-100>100</a>
@@ -1218,7 +1180,7 @@ Der Verantwortliche und der Auftragsverarbeiter und gegebenenfalls deren Vertret
  
 <div id="art-43" class="jtt" ></div>
  
-> #### Artikel 43 - Zertifizierungsstellen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 43 - Zertifizierungsstellen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="rebu">
 	- BDSG: <a href=/docs/en/bdsg#para-39>39</a>
@@ -1254,7 +1216,7 @@ ___
  
 <div id="art-44" class="jtt" ></div>
 
-> #### Artikel 44 - Allgemeine Grundsätze der Datenübermittlung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 44 - Allgemeine Grundsätze der Datenübermittlung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-101>101</a> - <a href=/docs/en/ewg#ewg-102>102</a>
@@ -1264,7 +1226,7 @@ Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden od
  
 <div id="art-45" class="jtt" ></div>
  
-> #### Artikel 45 - Datenübermittlung auf der Grundlage eines Angemessenheitsbeschlusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 45 - Datenübermittlung auf der Grundlage eines Angemessenheitsbeschlusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-102>103</a> - <a href=/docs/en/ewg#ewg-104>104</a> - <a href=/docs/en/ewg#ewg-105>105</a> - <a href=/docs/en/ewg#ewg-106>106</a> - <a href=/docs/en/ewg#ewg-107>107</a>
@@ -1291,7 +1253,7 @@ Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden od
  
 <div id="art-46" class="jtt" ></div>
  
-> #### Artikel 46 - Datenübermittlung vorbehaltlich geeigneter Garantien  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 46 - Datenübermittlung vorbehaltlich geeigneter Garantien  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-108>108</a> - <a href=/docs/en/ewg#ewg-109>109</a>
@@ -1321,7 +1283,7 @@ Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden od
  
 <div id="art-47" class="jtt" ></div>
  
-> #### Artikel 47 - Verbindliche interne Datenschutzvorschriften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 47 - Verbindliche interne Datenschutzvorschriften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-110>110</a>
@@ -1358,7 +1320,7 @@ Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden od
  
 <div id="art-48" class="jtt" ></div>
  
-> #### Artikel 48 - Nach dem Unionsrecht nicht zulässige Übermittlung oder Offenlegung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 48 - Nach dem Unionsrecht nicht zulässige Übermittlung oder Offenlegung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-115>115</a>
@@ -1368,7 +1330,7 @@ Jegliches Urteil eines Gerichts eines Drittlands und jegliche Entscheidung einer
  
 <div id="art-49" class="jtt" ></div>
  
-> #### Artikel 49 - Ausnahmen für bestimmte Fälle  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 49 - Ausnahmen für bestimmte Fälle  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-111>111</a> - <a href=/docs/en/ewg#ewg-112>112</a> - <a href=/docs/en/ewg#ewg-113>113</a> - <a href=/docs/en/ewg#ewg-114>114</a> - <a href=/docs/en/ewg#ewg-115>115</a>
@@ -1395,7 +1357,7 @@ Falls die Übermittlung nicht auf eine Bestimmung der Artikel 45 oder 46 — ein
  
 <div id="art-50" class="jtt" ></div>
  
-> #### Artikel 50 - Internationale Zusammenarbeit zum Schutz personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 50 - Internationale Zusammenarbeit zum Schutz personenbezogener Daten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-116>116</a>
@@ -1414,7 +1376,7 @@ ___
  
 <div id="art-51" class="jtt" ></div>
 
-> #### Artikel 51 - Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 51 - Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-117>117</a> - <a href=/docs/en/ewg#ewg-118>118</a> - <a href=/docs/en/ewg#ewg-119>119</a> - <a href=/docs/en/ewg#ewg-120>120</a>
@@ -1430,7 +1392,7 @@ ___
  
 <div id="art-52" class="jtt" ></div>
  
-> #### Artikel 52 - Unabhängigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 52 - Unabhängigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-117>117</a> - <a href=/docs/en/ewg#ewg-118>118</a> - <a href=/docs/en/ewg#ewg-120>120</a> - <a href=/docs/en/ewg#ewg-121>121</a>
@@ -1448,7 +1410,7 @@ ___
  
 <div id="art-53" class="jtt" ></div>
  
-> #### Artikel 53 - Allgemeine Bedingungen für die Mitglieder der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 53 - Allgemeine Bedingungen für die Mitglieder der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-121>121</a>
@@ -1464,7 +1426,7 @@ ___
  
 <div id="art-54" class="jtt" ></div>
  
-> #### Artikel 54 - Errichtung der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 54 - Errichtung der Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-117>117</a> - <a href=/docs/en/ewg#ewg-121>121</a>
@@ -1487,7 +1449,7 @@ ___
  
 <div id="art-55" class="jtt" ></div>
  
-> #### Artikel 55 - Zuständigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 55 - Zuständigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-122>122</a>
@@ -1502,7 +1464,7 @@ ___
  
 <div id="art-56" class="jtt" ></div>
  
-> #### Artikel 56 - Zuständigkeit der federführenden Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 56 - Zuständigkeit der federführenden Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-124>124</a> - <a href=/docs/en/ewg#ewg-127>127</a> - <a href=/docs/en/ewg#ewg-128>128</a>
@@ -1520,7 +1482,7 @@ ___
  
 <div id="art-57" class="jtt" ></div>
  
-> #### Artikel 57 - Aufgaben  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 57 - Aufgaben  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-122>122</a> - <a href=/docs/en/ewg#ewg-123>123</a> - <a href=/docs/en/ewg#ewg-132>132</a> - <a href=/docs/en/ewg#ewg-133>133</a> - <a href=/docs/en/ewg#ewg-137>137</a>
@@ -1561,7 +1523,7 @@ ___
  
 <div id="art-58" class="jtt" ></div>
 
-> #### Artikel 58 - Befugnisse  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 58 - Befugnisse  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-122>122</a> - <a href=/docs/en/ewg#ewg-129>129</a> - <a href=/docs/en/ewg#ewg-131>131</a>
@@ -1614,7 +1576,7 @@ ___
  
 <div id="art-59" class="jtt" ></div>
  
-> #### Artikel 59 - Tätigkeitsbericht  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 59 - Tätigkeitsbericht  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="rebu">
 	- BDSG: <a href=/docs/en/bdsg#para-15>15</a>
@@ -1627,7 +1589,7 @@ ___
  
 <div id="art-60" class="jtt" ></div>
 
-> ##### Artikel 60 - Zusammenarbeit zwischen der federführenden Aufsichtsbehörde und den anderen betroffenen Aufsichtsbehörden  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 60 - Zusammenarbeit zwischen der federführenden Aufsichtsbehörde und den anderen betroffenen Aufsichtsbehörden  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-124>124</a> - <a href=/docs/en/ewg#ewg-125>125</a> - <a href=/docs/en/ewg#ewg-130>130</a>
@@ -1651,7 +1613,7 @@ ___
  
 <div id="art-61" class="jtt" ></div>
  
-> #### Artikel 61 - Gegenseitige Amtshilfe  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 61 - Gegenseitige Amtshilfe  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-123>123</a> - <a href=/docs/en/ewg#ewg-132>132</a> - <a href=/docs/en/ewg#ewg-133>133</a>
@@ -1676,7 +1638,7 @@ ___
  
 <div id="art-62" class="jtt" ></div>
  
-> #### Artikel 62 - Gemeinsame Maßnahmen der Aufsichtsbehördene  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 62 - Gemeinsame Maßnahmen der Aufsichtsbehördene  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-126>126</a> - <a href=/docs/en/ewg#ewg-134>134</a>
@@ -1694,7 +1656,7 @@ ___
  
 <div id="art-63" class="jtt" ></div>
  
-> #### Artikel 63 - Kohärenzverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 63 - Kohärenzverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-135>135</a>
@@ -1704,7 +1666,7 @@ Um zur einheitlichen Anwendung dieser Verordnung in der gesamten Union beizutrag
  
 <div id="art-64" class="jtt" ></div>
  
-> #### Artikel 64 - Stellungnahme des Ausschusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 64 - Stellungnahme des Ausschusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-136>136</a>
@@ -1737,7 +1699,7 @@ Um zur einheitlichen Anwendung dieser Verordnung in der gesamten Union beizutrag
  
 <div id="art-65" class="jtt" ></div>
  
-> #### Artikel 65 - Streitbeilegung durch den Ausschuss  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 65 - Streitbeilegung durch den Ausschuss  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-136>136</a>
@@ -1760,7 +1722,7 @@ Um zur einheitlichen Anwendung dieser Verordnung in der gesamten Union beizutrag
  
 <div id="art-66" class="jtt" ></div>
  
-> #### Artikel 66 - Dringlichkeitsverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 66 - Dringlichkeitsverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-137>137</a> - <a href=/docs/en/ewg#ewg-138>138</a>
@@ -1775,13 +1737,13 @@ Um zur einheitlichen Anwendung dieser Verordnung in der gesamten Union beizutrag
  
 <div id="art-67" class="jtt" ></div>
  
-> #### Artikel 67 - Informationsaustausch  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 67 - Informationsaustausch  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festlegung der Ausgestaltung des elektronischen Informationsaustauschs zwischen den Aufsichtsbehörden sowie zwischen den Aufsichtsbehörden und dem Ausschuss, insbesondere des standardisierten Formats nach Artikel 64, erlassen.<br />Diese Durchführungsrechtsakte werden gemäß dem Prüfverfahren nach Artikel 93 Absatz 2 erlassen.
  
 <div id="art-68" class="jtt" ></div>
  
-> #### Artikel 68 - Europäischer Datenschutzausschuss  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 68 - Europäischer Datenschutzausschuss  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-139>139</a>
@@ -1799,7 +1761,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-69" class="jtt" ></div>
 
-> #### Artikel 69 - Unabhängigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 69 - Unabhängigkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-139>139</a>
@@ -1812,7 +1774,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-70" class="jtt" ></div>
  
-> #### Artikel 70 - Aufgaben des Ausschusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 70 - Aufgaben des Ausschusses  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-136>136</a> - <a href=/docs/en/ewg#ewg-139>139</a>
@@ -1855,7 +1817,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-71" class="jtt" ></div>
 
-> #### Artikel 71 - Berichterstattung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 71 - Berichterstattung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Der Ausschuss erstellt einen Jahresbericht über den Schutz natürlicher Personen bei der Verarbeitung in der Union und gegebenenfalls in Drittländern und internationalen Organisationen. Der Bericht wird veröffentlicht und dem Europäischen Parlament, dem Rat und der Kommission übermittelt.</li>
@@ -1864,7 +1826,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-72" class="jtt" ></div>
  
-> #### Artikel 72 - Verfahrensweise  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 72 - Verfahrensweise  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Sofern in dieser Verordnung nichts anderes bestimmt ist, fasst der Ausschuss seine Beschlüsse mit einfacher Mehrheit seiner Mitglieder.</li>
@@ -1873,7 +1835,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-73" class="jtt" ></div>
  
-> #### Artikel 73 - Vorsitz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 73 - Vorsitz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Der Ausschuss wählt aus dem Kreis seiner Mitglieder mit einfacher Mehrheit einen Vorsitzenden und zwei stellvertretende Vorsitzende.</li>
@@ -1882,7 +1844,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-74" class="jtt" ></div>
  
-> #### Artikel 74 - Aufgaben des Vorsitzes  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 74 - Aufgaben des Vorsitzes  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Der Vorsitz hat folgende Aufgaben:
@@ -1897,7 +1859,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-75" class="jtt" ></div>
  
-> #### Artikel 75 - Sekretariat  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 75 - Sekretariat  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-140>140</a>
@@ -1924,7 +1886,7 @@ Die Kommission kann Durchführungsrechtsakte von allgemeiner Tragweite zur Festl
  
 <div id="art-76" class="jtt" ></div>
  
-> #### Artikel 76 - Vertraulichkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 76 - Vertraulichkeit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 <ol>
 <li>Die Beratungen des Ausschusses sind gemäß seiner Geschäftsordnung vertraulich, wenn der Ausschuss dies für erforderlich hält.</li>
 <li>Der Zugang zu Dokumenten, die Mitgliedern des Ausschusses, Sachverständigen und Vertretern von Dritten vorgelegt werden, wird durch die Verordnung (EG) Nr. 1049/2001 des Europäischen Parlaments und des Rates (21) geregelt.</li>
@@ -1935,7 +1897,7 @@ ___
  
 <div id="art-77" class="jtt" ></div>
 
-> #### Artikel 77 - Recht auf Beschwerde bei einer Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 77 - Recht auf Beschwerde bei einer Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-141>141</a>
@@ -1947,7 +1909,7 @@ ___
  
 <div id="art-78" class="jtt" ></div>
  
-> #### Artikel 78 - Recht auf wirksamen gerichtlichen Rechtsbehelf gegen eine Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 78 - Recht auf wirksamen gerichtlichen Rechtsbehelf gegen eine Aufsichtsbehörde  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-141>141</a> - <a href=/docs/en/ewg#ewg-143>143</a>
@@ -1963,7 +1925,7 @@ ___
  
 <div id="art-79" class="jtt" ></div>
  
-> ##### Artikel 79 - Recht auf wirksamen gerichtlichen Rechtsbehelf gegen Verantwortliche oder Auftragsverarbeiter  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 79 - Recht auf wirksamen gerichtlichen Rechtsbehelf gegen Verantwortliche oder Auftragsverarbeiter  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-141>141</a> - <a href=/docs/en/ewg#ewg-145>145</a>
@@ -1977,7 +1939,7 @@ ___
  
 <div id="art-80" class="jtt" ></div>
 
-> #### Artikel 80 - Vertretung von betroffenen Personen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 80 - Vertretung von betroffenen Personen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-142>142</a>
@@ -1991,7 +1953,7 @@ ___
  
 <div id="art-81" class="jtt" ></div>
  
-> #### Artikel 81 - Aussetzung des Verfahrens  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 81 - Aussetzung des Verfahrens  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-144>144</a>
@@ -2005,7 +1967,7 @@ ___
  
 <div id="art-82" class="jtt" ></div>
  
-> #### Artikel 82 - Haftung und Recht auf Schadenersatz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 82 - Haftung und Recht auf Schadenersatz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-146>146</a> - <a href=/docs/en/ewg#ewg-147>147</a>
@@ -2022,7 +1984,7 @@ ___
  
 <div id="art-83" class="jtt" ></div>
  
-> #### Artikel 83 - Allgemeine Bedingungen für die Verhängung von Geldbußen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 83 - Allgemeine Bedingungen für die Verhängung von Geldbußen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-148>148</a> - <a href=/docs/en/ewg#ewg-149>149</a> - <a href=/docs/en/ewg#ewg-150>150</a> - <a href=/docs/en/ewg#ewg-151>151</a> - <a href=/docs/en/ewg#ewg-152>152</a>
@@ -2071,7 +2033,7 @@ ___
  
 <div id="art-84" class="jtt" ></div>
  
-> #### Artikel 84 - Sanktionen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 84 - Sanktionen  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-149>149</a> - <a href=/docs/en/ewg#ewg-150>150</a> - <a href=/docs/en/ewg#ewg-151>151</a> - <a href=/docs/en/ewg#ewg-152>152</a>
@@ -2088,7 +2050,7 @@ ___
  
 <div id="art-85" class="jtt" ></div>
 
-> #### Artikel 85 - Verarbeitung und Freiheit der Meinungsäußerung und Informationsfreiheit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 85 - Verarbeitung und Freiheit der Meinungsäußerung und Informationsfreiheit  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-153>153</a>
@@ -2102,7 +2064,7 @@ ___
  
 <div id="art-86" class="jtt" ></div>
  
-> #### Artikel 86 - Verarbeitung und Zugang der Öffentlichkeit zu amtlichen Dokumenten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 86 - Verarbeitung und Zugang der Öffentlichkeit zu amtlichen Dokumenten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-154>154</a>
@@ -2112,12 +2074,12 @@ Personenbezogene Daten in amtlichen Dokumenten, die sich im Besitz einer Behörd
  
 <div id="art-87" class="jtt" ></div>
  
-> #### Artikel 87 - Verarbeitung der nationalen Kennziffer  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 87 - Verarbeitung der nationalen Kennziffer  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 Die Mitgliedstaaten können näher bestimmen, unter welchen spezifischen Bedingungen eine nationale Kennziffer oder andere Kennzeichen von allgemeiner Bedeutung Gegenstand einer Verarbeitung sein dürfen. In diesem Fall darf die nationale Kennziffer oder das andere Kennzeichen von allgemeiner Bedeutung nur unter Wahrung geeigneter Garantien für die Rechte und Freiheiten der betroffenen Person gemäß dieser Verordnung verwendet werden.
   
 <div id="art-88" class="jtt" ></div>
 
-> #### Artikel 88 - Datenverarbeitung im Beschäftigungskontext  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 88 - Datenverarbeitung im Beschäftigungskontext  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-155>155</a>
@@ -2132,7 +2094,7 @@ Die Mitgliedstaaten können näher bestimmen, unter welchen spezifischen Bedingu
   
 <div id="art-89" class="jtt" ></div>
 
-> ##### Artikel 89 - Garantien und Ausnahmen in Bezug auf die Verarbeitung zu im öffentlichen Interesse liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Artikel 89 - Garantien und Ausnahmen in Bezug auf die Verarbeitung zu im öffentlichen Interesse liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-156>156</a> - <a href=/docs/en/ewg#ewg-157>157</a> - <a href=/docs/en/ewg#ewg-158>158</a> - <a href=/docs/en/ewg#ewg-159>159</a> - <a href=/docs/en/ewg#ewg-160>160</a> - <a href=/docs/en/ewg#ewg-161>161</a> - <a href=/docs/en/ewg#ewg-162>162</a> - <a href=/docs/en/ewg#ewg-163>163</a>
@@ -2148,7 +2110,7 @@ Die Mitgliedstaaten können näher bestimmen, unter welchen spezifischen Bedingu
  
 <div id="art-90" class="jtt" ></div>
  
-> #### Artikel 90 - Geheimhaltungspflichten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 90 - Geheimhaltungspflichten  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-164>164</a> - BDSG: <a href=/docs/en/bdsg#para-16>16</a> - <a href=/docs/en/bdsg#para-21>21</a> - <a href=/docs/en/bdsg#para-29>29</a> - <a href=/docs/en/bdsg#para-40>40</a>
@@ -2161,7 +2123,7 @@ Die Mitgliedstaaten können näher bestimmen, unter welchen spezifischen Bedingu
   
 <div id="art-91" class="jtt" ></div>
 
-> ##### Art. 91 - Bestehende Datenschutzvorschriften von Kirchen und religiösen Vereinigungen oder Gemeinschaften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> ##### Art. 91 - Bestehende Datenschutzvorschriften von Kirchen und religiösen Vereinigungen oder Gemeinschaften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-165>165</a>
@@ -2177,7 +2139,7 @@ ___
  
 <div id="art-92" class="jtt" ></div>
 
-> #### Artikel 92 - Ausübung der Befugnisübertragung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 92 - Ausübung der Befugnisübertragung  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-166>166</a> - <a href=/docs/en/ewg#ewg-167>167</a> - <a href=/docs/en/ewg#ewg-168>168</a> - <a href=/docs/en/ewg#ewg-169>169</a> - <a href=/docs/en/ewg#ewg-170>170</a>
@@ -2193,7 +2155,7 @@ ___
  
 <div id="art-93" class="jtt" ></div>
  
-> #### Artikel 93 - Ausschussverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 93 - Ausschussverfahren  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 <ol>
 <li>Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011.</li>
 <li>Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.</li>
@@ -2205,7 +2167,7 @@ ___
  
 <div id="art-94" class="jtt" ></div>
 
-> #### Artikel 94 - Aufhebung der Richtlinie 95/46/EG  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 94 - Aufhebung der Richtlinie 95/46/EG  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-171>171</a>
@@ -2218,7 +2180,7 @@ ___
  
 <div id="art-95" class="jtt" ></div>
 
-> #### Artikel 95 - Verhältnis zur Richtlinie 2002/58/EG  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 95 - Verhältnis zur Richtlinie 2002/58/EG  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <div class="libu">
 	Erwg: <a href=/docs/en/ewg#ewg-173>173</a>
@@ -2228,13 +2190,13 @@ Diese Verordnung erlegt natürlichen oder juristischen Personen in Bezug auf die
  
 <div id="art-96" class="jtt" ></div>
  
-> #### Artikel 96 - Verhältnis zu bereits geschlossenen Übereinkünften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 96 - Verhältnis zu bereits geschlossenen Übereinkünften  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 Internationale Übereinkünfte, die die Übermittlung personenbezogener Daten an Drittländer oder internationale Organisationen mit sich bringen, die von den Mitgliedstaaten vor dem 24. Mai 2016 abgeschlossen wurden und die im Einklang mit dem vor diesem Tag geltenden Unionsrecht stehen, bleiben in Kraft, bis sie geändert, ersetzt oder gekündigt werden.
  
 <div id="art-97" class="jtt" ></div>
  
-> #### Artikel 97 - Berichte der Kommission  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 97 - Berichte der Kommission  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 <ol>
 <li>Bis zum 25. Mai 2020 und danach alle vier Jahre legt die Kommission dem Europäischen Parlament und dem Rat einen Bericht über die Bewertung und Überprüfung dieser Verordnung vor. Die Berichte werden öffentlich gemacht.</li>
@@ -2251,13 +2213,13 @@ Internationale Übereinkünfte, die die Übermittlung personenbezogener Daten an
  
 <div id="art-98" class="jtt" ></div>
  
-> #### Artikel 98 - Überprüfung anderer Rechtsakte der Union zum Datenschutz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 98 - Überprüfung anderer Rechtsakte der Union zum Datenschutz  &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 Die Kommission legt gegebenenfalls Gesetzgebungsvorschläge zur Änderung anderer Rechtsakte der Union zum Schutz personenbezogener Daten vor, damit ein einheitlicher und kohärenter Schutz natürlicher Personen bei der Verarbeitung sichergestellt wird. Dies betrifft insbesondere die Vorschriften zum Schutz natürlicher Personen bei der Verarbeitung solcher Daten durch die Organe, Einrichtungen, Ämter und Agenturen der Union und zum freien Verkehr solcher Daten.
 
 <div id="art-99" class="jtt" ></div>
  
-> #### Artikel 99 - Inkrafttreten und Anwendung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="#ds-oben"><img src="/img/oben.png" width="20" ></a>
+> #### Artikel 99 - Inkrafttreten und Anwendung &nbsp;&nbsp;<a href="javascript:history.back()"><img src="/img/zur.png" width="20" >&nbsp;</a><a href="javascript:scroll(0,0)"><img src="/img/oben.png" width="20" ></a>
 
 1. Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
 2. Sie gilt ab dem 25. Mai 2018.

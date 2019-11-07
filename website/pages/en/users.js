@@ -17,7 +17,7 @@ class Users extends React.Component {
     if ((siteConfig.users || []).length === 0) {
       return null;
     }
-
+	
     const editUrl = `${siteConfig.repoUrl}/edit/master/website/siteConfig.js`;
     const showcase = siteConfig.users.map(user => (
       <a href={user.infoLink} key={user.infoLink}>
@@ -26,19 +26,47 @@ class Users extends React.Component {
     ));
 
     return (
-      <div className="mainContainer">
+    
+	  
+	  <div className="mainContainer">
         <Container padding={['bottom', 'top']}>
           <div className="showcaseSection">
             <div className="prose">
-              <h1>Wer macht hier was?</h1>
-              <p>Dieses Projekt wird oft genutzt</p>
+              <h1>FLASHCARD</h1>
             </div>
-            <div className="logos">{showcase}</div>
-            <p>Sind Sie bei diesem Projekt dabei?</p>
-            <a href={editUrl} className="button">
-              Value Grid Engineering Group
-            </a>
+			
+<body onLoad="starte()"> 
+
+
+	<form name="flash" id="flash">
+
+		<div id="entry" name="entry" class="entry"></div>
+		
+		<table id="Tabelle8">
+			<tr><td class="chkbox"><input name="field1" id="field1" type="checkbox" onClick="toggle(1)"/></td>
+				<td class="ansbox" name="answer1" id="answer1"></td></tr>
+			<tr><td class="chkbox"><input name="field2" id="field2" type="checkbox" onClick="toggle(2)"/></td>
+				<td class="ansbox" name="answer2" id="answer2"></td></tr>
+			<tr><td class="chkbox"><input name="field3" id="field3" type="checkbox" onClick="toggle(3)"/></td>
+				<td class="ansbox" name="answer3" id="answer3"></td></tr>
+		</table>
+
+		<div class="knopfpos"><input name="restart" type="button" class="knopf rot"     id="restart" value="Start " onClick="starte()"/>
+			<input name="back"    type="button" class="knopf gruen"   id="back"    value="Prüfen" onClick="proof()"/>
+			<input name="forw"    type="button" class="knopf blau"  id="forw"    value="Weiter" onClick="forward()"/></div>
+		
+		<div id="mess" name="mess" class="sectiontitle"></div>
+		
+		<table id="Tabelle9" >
+			<tr><td id="cardnumber" name="cardnumber" class="cardnumber"></td><td id="alle" name="alle" class="alle"></td></tr>  
+			<tr><td id="score"      name="score"      class="score"     ></td><td id="percent"    name="percent"    class="percent"   ></td></tr>
+		</table>
+	</form>
+
+
+</body>
           </div>
+
         </Container>
       </div>
     );

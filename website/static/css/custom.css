@@ -56,57 +56,11 @@ table#Tabelle1 td {
 	text-align: center;
 }
 
-/* Tabelle 2 aus Dsgvo, Erwägungsgründe, BDSG */
-
-table#Tabelle2 td {
-    border: 1px solid blue;
-    padding: 1px;
-	text-align: center;
-}
-
-/* Tabelle 3 enthält die Links, Dsgvo, Erwägungsgründe, BDSG */
-
-table#Tabelle3 {
-	padding: 1px;
-	align: center;
-}
-
-/* Tabelle 4 */
-
-table#Tabelle4 td {
-    border: 1px solid blue;
-    padding: 1px;
-	text-align: center;
-}	  
-
-/* Tabelle 5 aus Fragen */
-
-table#Tabelle5 {
-	padding: 1px;
-	text-align: left;
-	border: 1px solid blue;
-}
- 
-table#Tabelle5 thead {
-     border: 1px solid blue;
-	background-color: #fff;
-}
-
 .folie { 
     text-align: center;
 	border: 1px solid blue;
 	padding: 1px;
 }
-
-.spaltengruppe { width: 100%; }
-
-.spalte1 { width: 12%; }
-
-.spalte2 { width: 12%; }
-
-.spalte3 { width: 12%; }
-
-.spalte4 { width: 64%; }
 
 /* Sprungziel Top */
 
@@ -127,6 +81,7 @@ div.libu {
 label, input {
     margin: 5px;
 }
+
 .jtt {
 	 position: relative;
     top: -4em;
