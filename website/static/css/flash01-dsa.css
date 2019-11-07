@@ -1,7 +1,7 @@
 /* flash01-dsa */
 
 /* Erste Tabelle mit der Frage in einer Zeile ************/
-#dsTop {
+#** {
 	position: relative;
 	top: 0em; 
 }
@@ -13,16 +13,6 @@
 	top: -2.0em; 
     left: 0.5em;; 
     height: 6em;
-	width:100%;
-	font-size: 20px;
-	color: green;
-}
-#dsaListeF {
-	position: relative;
-	display: table-cell;
-	vertical-align: middle;
-	top: -2.0em; 
-    left: 0.5em;; 
 	width:100%;
 	font-size: 20px;
 	color: green;
@@ -48,45 +38,65 @@ table#dsaTab1 td {
 	border-right: none;
 	border-bottom: 1px solid blue;
 }
-table#dsaListe1 {
+
+/* Für Listenerstellung ***************************************/
+table#dsaListe {
 	position: relative;
-    height: 32em;
 	width: 100%;
-	font-size: 12px;
 	color: black;
-	border: 1px solid blue;
+	font-size: 14px;
+	font-weight: bold;
+	border: none;
 }
-table#dsaListe1 td {
+
+.cboxListe {
 	position: relative;
 	display: table-cell;
 	vertical-align: middle;
-	border-top: none;
-	border-left: none;
-	border-right: none;
-	border-bottom: 1px solid blue;
+	width: 10px;
+	font-size: 16px;
+
 }
-
-/* In Tab1 rechts ***************************************/
-
-.antwort {
+.antwListe {
 	position: relative;
 	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	font-size: 12px;
+	font-weight: normal;
+}
+.antwort {
+	position: relative;
 	vertical-align: middle;
 	width: 100%;
 	font-size: 16px;
 
 }
+#listeTab2 {
+	position: sticky;
+	display: flex;
+	bottom: 10em;
+}
+
+#listeBlau { Ausdruck für Liste
+	position: sticky;
+	display: flex;
+	bottom: 0em;
+	margin-left: auto;
+}
+
 /* Positionierung der Buttons*****************************/
 
 #dsaTab2 {
 	position: sticky;
 	display: flex;
-	bottom: 10em;
+	bottom: 8em;
 }
 #rot {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 
 /* Positionierung der Hinweisfelder **********************/
 
@@ -94,7 +104,7 @@ table#dsaListe1 td {
 	position: sticky;
 	display: flex;
 	font-size: 18px;
-	bottom: 5em;
+	bottom: 6em;
 /*	border: 1px dashed blue; */
 }
 
@@ -105,15 +115,17 @@ table#dsaListe1 td {
 	margin-right: auto;
 }
 
-/* Berechnung Ergebnisse *********************************/
+#dsaTab4 {
+	position: relative;
+	display: flex;
 
-.ausgabe{
-	position: sticky;
-	bottom: 3em;
-	height: 2em;
-	width:780px;
-	display: block;
+	font-size: 18px;
+	bottom: 2em;
+border: 1px dashed blue;
+}
+
+#dsaTab4out {
 	margin-left: auto;
 	margin-right: auto;
-	vertical-align: middle;
 }
+

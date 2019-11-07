@@ -5,9 +5,21 @@
     "previous": "Previous",
     "tagline": "Die Webseite für den Auditor",
     "docs": {
+      "archiv": {
+        "title": "Historische Werke",
+        "sidebar_label": "Archiv"
+      },
+      "avv": {
+        "title": "Auftragsverarbeitungsverträge (AVV)",
+        "sidebar_label": "Auftragsverarbeitung"
+      },
       "bdsg": {
         "title": "Bundesdatenschutzgesetz",
         "sidebar_label": "BDSG"
+      },
+      "con2": {
+        "title": "CON.2 Datenschutz",
+        "sidebar_label": "CON.2 Datenschutz"
       },
       "datenschutz": {
         "title": "Datenschutzerklärung",
@@ -40,10 +52,6 @@
       "doc7": {
         "title": "Präsentation Datenschutzbeauftragter",
         "sidebar_label": "Präsentation DSB"
-      },
-      "doc8": {
-        "title": "Playground",
-        "sidebar_label": "Playground"
       },
       "doc9": {
         "title": "DSA-Marketing",
@@ -94,12 +102,20 @@
         "sidebar_label": "KunstUrhG"
       },
       "liste01-dsa": {
-        "title": "liste01-dsa",
+        "title": "DSA Fragen",
         "sidebar_label": "Checkliste DSA 01"
       },
-      "local": {
+      "liste01-dsb": {
+        "title": "DSB Fragen",
+        "sidebar_label": "Checkliste DSB 01"
+      },
+      "material": {
         "title": "Gesammelte Werke",
         "sidebar_label": "Material"
+      },
+      "playground": {
+        "title": "Playground",
+        "sidebar_label": "Playground"
       },
       "projekt": {
         "title": "Projekt Vorbereitung",
@@ -132,8 +148,12 @@
         "sidebar_label": "Installation und Dokumentation"
       },
       "reveal": {
-        "title": "Flashcards",
-        "sidebar_label": "Reveal"
+        "title": "Mitarbeitersensibilisierung Datenschutz (DSGVO)",
+        "sidebar_label": "Schulung MA Datenschutz"
+      },
+      "sdm": {
+        "title": "SDM Standard-Datenschutz-Modell",
+        "sidebar_label": "SDM Modell"
       }
     },
     "links": {
@@ -148,9 +168,9 @@
       "Gesetze": "Gesetze",
       "Lernkarten": "Lernkarten",
       "Fördermittel": "Fördermittel",
+      "Präsentationen": "Präsentationen",
       "Audit Fragenkataloge": "Audit Fragenkataloge",
       "Projekte": "Projekte",
-      "Präsentationen": "Präsentationen",
       "Material": "Material",
       "Playground": "Playground",
       "Wichtiges": "Wichtiges"

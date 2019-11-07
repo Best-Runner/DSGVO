@@ -1,0 +1,37 @@
+			if (ladeAntwort0[y] != "") { // Wenn Antwort vorhanden, Zuweisung Antwort
+				console.log("Antwort0: " + ladeAntwort0[y]); Anzeige Antwort 1
+				Antwort[y].innerHTML = ""; // Antwort wieder leeren
+			}
+			
+			ladeAntwort1[y] = Antwort[1].innerHTML
+			if (ladeAntwort1[y] != "") {
+				console.log("Antwort1: " + ladeAntwort1[y]);
+				Antwort[1].innerHTML = "";
+			}
+			ladeAntwort2[y] = Antwort[2].innerHTML
+			
+			if (ladeAntwort2[y] != "") {
+				console.log("Antwort2: " + ladeAntwort2[y]);
+				Antwort[2].innerHTML = "";
+			}
+			ladeAntwort3[y] = Antwort[3].innerHTML
+			if (ladeAntwort3[y] != "") console.log("Antwort3: " + ladeAntwort3[y]);
+			ladeAntwort4[y] = Antwort[4].innerHTML
+			if (ladeAntwort4[y] != "") console.log("Antwort4: " + ladeAntwort4[y]);
+			ladeAntwort5[y] = Antwort[5].innerHTML
+			if (ladeAntwort5[y] != "") console.log("Antwort5: " + ladeAntwort5[y]);
+			ladeAntwort6[y] = Antwort[6].innerHTML
+			if (ladeAntwort6[y] != "") console.log("Antwort6: " + ladeAntwort6[y]);
+			ladeAntwort7[y] = Antwort[7].innerHTML
+			if (ladeAntwort7[y] != "") console.log("Antwort7: " + ladeAntwort7[y]);
+			
+			<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort0"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort1"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort2"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort3"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort4"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort5"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort6"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort7"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort6"></td></tr>
+	<tr><td><input class="checkListe" type="checkbox"/></td><td class="antwort" id="antwort7"></td></tr>

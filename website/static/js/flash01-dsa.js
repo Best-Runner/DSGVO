@@ -9,6 +9,13 @@
 
 function dsa01(jump) {
 	
+//initialize the numbers:
+
+	maxAntwortfelder = 8;  // Max 10 Antwortfelder
+	maxAntworten     = 8;  // Maximale Anzahl Antworten
+	anzKarten        = 33; // Anzahl Elemente im Array = 34
+	maxKarten        = 34; // Anzahl Elemente im Array = 34
+
 	switch (jump) {
 		case 1:
 			start01dsa();
@@ -46,7 +53,7 @@ function dsa01(jump) {
 	
 		for(y=0;y < maxAntwortfelder;y++){
 			Checkbox[y] = document.getElementById("check" + y); 
-			 Antwort[y] = document.getElementById("antwort" + y);
+//			 Antwort[y] = document.getElementById("antwort" + y);
 			Versteck[y] = document.getElementById("versteck" + y);
 		}
 		refErgebnis = document.getElementById("Ergebnis");
@@ -54,7 +61,15 @@ function dsa01(jump) {
 		refHinweis  = document.getElementById("Hinweis");
 		refProzent  = document.getElementById("Prozent");
 		
-//	for (y = (maxAntwortfelder-1); y >= maxAntworten; y--) Versteck[y].style.visibility="hidden"; // muss enabled werden, wenn Delta zwischen Felder und Antworten
+		// refListe für von 0 bis anzKarten erstellen
+		
+		for (y = 0; y <= anzKarten; y++) {
+			refListe[y] = document.getElementById("f"+y);	
+			refListe[y].style.visibility = "hidden";
+		}
+
+	//	for (y = (maxAntwortfelder-1); y >= maxAntworten; y--) Versteck[y].style.visibility="hidden"; 
+	//  muss enabled werden, wenn Delta zwischen Felder und Antworten
 		
 	}
 
@@ -64,7 +79,7 @@ function dsa01(jump) {
 	// Initialisierung zum Start und Wiederholung
 		aktErgebnis = 0;
 		aktProzent  = 0;
-		aktKarte    = 0;
+		aktKarte    = 0; 
 
 	// 1. Benutzerhinweis	
 	refHinweis.value = 'Bei Fragen fragen!';   // Hinweisfeld füttern
@@ -89,15 +104,20 @@ function dsa01(jump) {
 
 	function initnext(){// Initialisiert die Maske
 	let y = 0;
+	let anzAnt = "";
+	let anzVer = "";
+	
+		for(y = 0;y < maxAntworten; y++) {
+			
+			anzAnt = "antwort"+y;
 		
-		for(y=0;y<=(maxAntworten-1);y++) {
-			Checkbox[y].checked            = false;     // Angekreuztes löschen
-			 Antwort[y].innerHTML          = [''];      // Antwortfelder leeren
-			 Antwort[y].style.color        = "black";   // Zurück von Blau/Grün auf Schwarz
-			 Antwort[y].style.visibility   = "visible"; // mögliche Unsichtbarkeit aufheben 
-			 Antwort[y].style.borderBottom = "1px solid blue";
-			Versteck[y].style.visibility   = "visible"; // mögliche Unsichtbarkeit aufheben aus flash01-dsa-data
-			Versteck[y].style.borderBottom = "1px solid blue";
+			Checkbox[y].checked                                = false;     // Angekreuztes löschen
+			document.getElementById(anzAnt).innerHTML          = [''];      // Feld leeren
+			document.getElementById(anzAnt).style.color        = "black";   // Zurück von Blau/Grün auf Schwarz 
+			document.getElementById(anzAnt).style.visibility   = "visible"; // mögliche Unsichtbarkeit aufheben  
+			document.getElementById(anzAnt).style.borderBottom = "1px solid blue"; //zurück zur blauen Linie
+			Versteck[y].style.visibility                       = "visible"; // mögliche Unsichtbarkeit aufheben aus flash01-dsa-data
+			Versteck[y].style.borderBottom                     = "1px solid blue"; // Zurück zur Blauen Grotte
 		}
 
 		refProzent.value  = 'Karte 0%';                 // Hinweisfeld füttern
@@ -106,6 +126,7 @@ function dsa01(jump) {
 
 	function zurueck(){ // Zurück und shownext()
 		scroll(0,0);   // Position korrigieren, falls nötig
+		aktPruefung = true;
 		aktKarte--; 
 		if(aktKarte < 0){
 			aktKarte = 0;
@@ -118,6 +139,7 @@ function dsa01(jump) {
 		scroll(0,0);   // Position korrigieren
 	 	if (aktPruefung == false) pruefeKarte();
 		aktPruefung = false;
+		refListe[arrSort[aktKarte]].style.visibility="visible";
 		aktKarte++;
 		if(aktKarte > anzKarten){
 			aktKarte = anzKarten;
@@ -133,21 +155,25 @@ function dsa01(jump) {
 	let prozKarte   = 0;
 		aktProzent  = 0;
 		aktPruefung = true;
+	let anzAnt = "";
+	let anzVer = "";
 
 		const iterator = Loesung.values(); //https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/values
 
 		for(const value of iterator) {
-
+			
+			anzAnt = "antwort"+y;
+			
 			if((Checkbox[y].checked && value) || (!Checkbox[y].checked && !value)){
-				Antwort[y].style.color = "green";
+				document.getElementById(anzAnt).style.color = "green";
 				prozZaehler++
-			}
+		}
 			
 			if((!Checkbox[y].checked && value) || (Checkbox[y].checked && !value)){
-				Antwort[y].style.color = "blue";
+				document.getElementById(anzAnt).style.color = "blue";
 				Checkbox[y].checked = false;    // Angekreuztes löschen
 				prozZaehler--
-			}
+		}
 			y++	
 		}
 		
@@ -186,9 +212,9 @@ function dsa01(jump) {
 
 // Ausserhalb der Kapselung
 
-function sMaske(aktKarte){
-	console.log("Halleluja");
+function dsaMaske(aktKarte){
 	dsa01(6);
+	aktPruefung = true;
 	alleFragen(aktKarte);
 	scroll(0,0);   // Position korrigieren
 }

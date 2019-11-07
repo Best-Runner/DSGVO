@@ -1,13 +1,13 @@
 {
   "docs": {
-    "Gesetze": ["gesetze","dsgvo","ewg","bdsg","geheim","kunsturhg","links"],
-	"Lernkarten": ["flashcards","flash01-dsb","flash01-dsa","liste01-dsa"],
+    "Gesetze": ["gesetze","dsgvo","ewg","bdsg","geheim","kunsturhg","links","con2","sdm"],
+	"Lernkarten": ["flashcards","flash01-dsb","liste01-dsb","flash01-dsa","liste01-dsa"],
 	"Fördermittel": ["foerderung"],
-	"Audit Fragenkataloge": ["doc1","doc9","doc10","doc11","foerderung"],
+	"Präsentationen": ["doc6","doc7","avv","it-itil","doc12"],
+	"Audit Fragenkataloge": ["doc1","doc9","doc10","doc11"],
 	"Projekte": ["projekt","projekt01","projekt02","projekt03","projekt04"],
-	"Präsentationen": ["doc6","doc7","doc12","it-itil"],
-    "Material": ["local"],
-	"Playground": ["test","reveal","doc8"]
+	"Material": ["material","archiv"],
+	"Playground": ["reveal","playground"]
   },
   "docs-other": {
     "Wichtiges": ["datenschutz","impressum"]

@@ -86,3 +86,59 @@ label, input {
 	 position: relative;
     top: -4em;
 }
+
+.knopf {
+    width: 100px;
+    height: 40px; 
+    background: linear-gradient(to bottom, white, grey); 
+    box-shadow: inset 0px 0px 6px #fff,inset 0px -1px 6px #fff;
+    border: 1px solid #5ea617;
+    border-radius: 1em;
+    margin: 1em;
+	color: white;
+	font-weight: bold;
+ }
+ .knopfpos{
+	position: relative;
+	margin: auto;
+	top: -1.5em;
+	width: 50%;
+ }
+
+.knopf.rot {
+	background: linear-gradient(to bottom, white, red);
+}
+
+.knopf.orange {
+	background: linear-gradient(to bottom, white, orange);
+}
+
+.knopf.gruen {
+	background: linear-gradient(to bottom, white, green);
+}
+
+.knopf.blau {
+	background: linear-gradient(to bottom, skyblue, blue);
+}
+
+.knopf.lila {
+	background: linear-gradient(to bottom, hotpink, purple);
+}
+.knopf.grau {
+	background: linear-gradient(to bottom, white, grey);
+}
+
+.knopf.trans {
+	background: Transparent no-repeat;
+    border: 1px solid green;
+    cursor:pointer;
+    overflow: hidden;
+	color: black;
+	font-weight: bold;
+/*	background: linear-gradient(to bottom, white, grey); */
+}
+
+.knopf:hover,
+.knopf:focus {
+	box-shadow: rgba(0, 0, 0, 0.7) 0px 5px 15px, inset rgba(0, 0, 0, 0.15) 0px -10px 20px;
+}

@@ -54,10 +54,10 @@ const siteConfig = {
  
   // If you have users set above, you add it here:
   users,
-	algolia: {
-		apiKey: 'b380d374e37dbd64cb6ba52314274089',
-		indexName: 'github',
-	  },
+//	algolia: {
+//		apiKey: 'b380d374e37dbd64cb6ba52314274089',
+//		indexName: 'github',
+//	  },
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
   footerIcon: 'img/favicon.ico',
@@ -97,11 +97,12 @@ const siteConfig = {
 	{src: '/js/flash01-dsb.js', type: 'text/javascript',}, 
 	{src: '/js/flash01-dsa.js', type: 'text/javascript',},
 	{src: '/js/flash01-dsa-data.js', type: 'text/javascript',},
+    {src: '/js/liste01-dsa.js', type: 'text/javascript',},
   ],
   stylesheets: [
     'https://docusaurus.io/style.css',
     {href: '/css/flash01-dsb.css', type: 'text/css'},
-	{href: '/css/flash01-dsa.css', type: 'text/css',
+    {href: '/css/flash01-dsa.css', type: 'text/css',
     },
   ],	
   // On page navigation for the current documentation page.
